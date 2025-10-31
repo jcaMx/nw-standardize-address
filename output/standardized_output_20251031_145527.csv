@@ -1,0 +1,20 @@
+TerritoryID,TerritoryNumber,TerritoryAddressID,ApartmentNumber,Number,Street,Suburb,PostalCode,State,Type,Latitude,Longitude,StandardizedAddress,DPVStatus,AddressStatus
+989214,58,9341555,3,8427, Crenshaw Dr,Inglewood,,,House,33.960921,-118.332084,"8427 Crenshaw Dr, Inglewood nan nan",,Geocoded (fallback)
+828623,71,2893240,1/2,2408, W 85th St,Inglewood,,,House,33.960618,-118.319406,"2408 W 85th St, Inglewood nan nan",,Geocoded (fallback)
+786471,59,1622586,,6916,10ave,Inglewood,,,House,33.975065,-118.369862,"6916 10 Ave, Inglewood nan nan",,Geocoded (fallback)
+584366,62,1641322,,7304,10th Ave,Inglewood,,,House,33.942749,-118.328066,"7304 10th Ave, Inglewood nan nan",,Geocoded (fallback)
+584366,62,1869968,,7307,10th Ave,Los Angeles,,,House,18.776703,100.77522,"7307 10th Ave, Los Angeles nan nan",,Geocoded (fallback)
+786471,59,1344975,1/2,6825,10th Ave,Los Angeles,,,House,18.776703,100.77522,"6825 10th Ave, Los Angeles nan nan",,Geocoded (fallback)
+356095,1,6393825,,8612,10Th Ave,Inglewood,90305.0,CA,House,33.95912,-118.32755,"8612 S 10th Ave, Inglewood CA 90305-2323",Y,Validated
+356095,1,2855996,,8616,10Th Ave,Inglewood,90305.0,CA,House,33.95912,-118.32755,"8616 S 10th Ave, Inglewood CA 90305-2323",Y,Validated
+356095,1,5074353,,8617,10Th Ave,Inglewood,90305.0,CA,House,33.95912,-118.32776,"8617 S 10th Ave, Inglewood CA 90305-2346",Y,Validated
+356095,1,8675560,,8621,10Th Ave,Inglewood,90305.0,CA,House,33.95912,-118.32776,"8621 S 10th Ave, Inglewood CA 90305-2346",Y,Validated
+356095,1,2942205,,8624,10Th Ave,Inglewood,90305.0,CA,House,33.95912,-118.32755,"8624 S 10th Ave, Inglewood CA 90305-2323",Y,Validated
+356095,1,9937735,,8625,10Th Ave,Inglewood,90305.0,CA,House,33.95912,-118.32776,"8625 S 10th Ave, Inglewood CA 90305-2346",Y,Validated
+356095,1,1197450,,8700,10Th Ave,Inglewood,90305.0,CA,House,33.95838,-118.32754,"8700 S 10th Ave, Inglewood CA 90305-2325",Y,Validated
+356095,1,5533802,,8701,10Th Ave,Inglewood,90305.0,CA,House,33.95838,-118.32776,"8701 S 10th Ave, Inglewood CA 90305-2324",Y,Validated
+356095,1,5868644,,8704,10Th Ave,Inglewood,90305.0,CA,House,33.95838,-118.32754,"8704 S 10th Ave, Inglewood CA 90305-2325",Y,Validated
+356095,1,8403565,,8705,10Th Ave,Inglewood,90305.0,CA,House,33.95838,-118.32776,"8705 S 10th Ave, Inglewood CA 90305-2324",Y,Validated
+356095,1,5329596,,8708,10Th Ave,Inglewood,90305.0,CA,House,33.95869,-118.32754,"8708 S 10th Ave, Inglewood CA 90305-3333",D,Validated
+356095,1,9249351,,8709,10Th Ave,Inglewood,90305.0,CA,House,33.95838,-118.32776,"8709 S 10th Ave, Inglewood CA 90305-2324",Y,Validated
+356095,1,6544117,,8712,10Th Ave,Inglewood,90305.0,CA,House,33.95838,-118.32754,"8712 S 10th Ave, Inglewood CA 90305-2325",Y,Validated
