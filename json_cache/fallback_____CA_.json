@@ -1,0 +1,21 @@
+[
+  {
+    "place_id": "368551388",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "relation",
+    "osm_id": "1428125",
+    "boundingbox": [
+      "41.6765597",
+      "83.3362128",
+      "-141.00275",
+      "-52.3237664"
+    ],
+    "lat": "61.0666922",
+    "lon": "-107.991707",
+    "display_name": "Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 1,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

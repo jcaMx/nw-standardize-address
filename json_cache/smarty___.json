@@ -1,0 +1,11 @@
+{
+  "errors": [
+    {
+      "fields": [
+        "query:street"
+      ],
+      "name": "us-street-api:query-missing-street",
+      "message": "The query string is missing a street."
+    }
+  ]
+}
