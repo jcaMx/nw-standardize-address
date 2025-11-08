@@ -1,0 +1,4 @@
+TerritoryID,TerritoryNumber,CategoryCode,Category,TerritoryAddressID,ApartmentNumber,Number,Street,Suburb,PostalCode,State,Name,Phone,Type,Status,NotHomeAttempt,Date1,Date2,Date3,Date4,Date5,Language,Latitude,Longitude,Notes,NotesFromPublisher,Process Notes,StandardizedAddress,DPVStatus,AddressStatus,IsDuplicate,ConfidenceLevel,ConfidenceScore
+356095,1,,,6500663,100,8611,Crenshaw Blvd,Inglewood,90305,CA,,,Apartment,Available,0,,,,,,,33.95994,-118.32653,,,,"8611 Crenshaw Blvd, Inglewood CA 90305-2343",D,Duplicate,True,Unknown,0.5
+356095,1,,,3719529,101,8611,Crenshaw Blvd,Inglewood,90305,CA,,,Apartment,Available,0,,,,,,,33.95994,-118.32653,,,,"8611 Crenshaw Blvd, Inglewood CA 90305-2343",D,Duplicate,True,Unknown,0.5
+356095,1,,,2012009,102,8611,Crenshaw Blvd,Inglewood,90305,CA,,,Apartment,Available,0,,,,,,,33.95994,-118.32653,,,,"8611 Crenshaw Blvd, Inglewood CA 90305-2343",D,Duplicate,True,Unknown,0.5

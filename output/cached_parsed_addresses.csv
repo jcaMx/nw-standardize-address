@@ -1,0 +1,5 @@
+cache_file,delivery_line_1,delivery_line_2,last_line,delivery_point_barcode,primary_number,street_predirection,street_name,street_suffix,secondary_designator,secondary_number,city_name,state_abbreviation,zipcode,plus4_code,delivery_point,delivery_point_check_digit,latitude,longitude,precision,dpv_match_code,dpv_footnotes,active,StandardizedAddress
+903052323120.json,8612 S 10th Ave,,Inglewood CA 90305-2323,903052323120,8612,S,10th,Ave,,,Inglewood,CA,90305,2323,12,0,33.95912,-118.32755,Zip9,Y,AABB,Y,"8612 S 10th Ave, Inglewood CA 90305-2323"
+903052323166.json,8616 S 10th Ave,,Inglewood CA 90305-2323,903052323166,8616,S,10th,Ave,,,Inglewood,CA,90305,2323,16,6,33.95912,-118.32755,Zip9,Y,AABB,Y,"8616 S 10th Ave, Inglewood CA 90305-2323"
+903052346170.json,8617 S 10th Ave,,Inglewood CA 90305-2346,903052346170,8617,S,10th,Ave,,,Inglewood,CA,90305,2346,17,0,33.95912,-118.32776,Zip9,Y,AABB,Y,"8617 S 10th Ave, Inglewood CA 90305-2346"
+903052346215.json,8621 S 10th Ave,,Inglewood CA 90305-2346,903052346215,8621,S,10th,Ave,,,Inglewood,CA,90305,2346,21,5,33.95912,-118.32776,Zip9,Y,AABB,Y,"8621 S 10th Ave, Inglewood CA 90305-2346"
