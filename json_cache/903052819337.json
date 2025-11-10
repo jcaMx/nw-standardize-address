@@ -1,0 +1,47 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "9233 S 4th Ave",
+    "last_line": "Inglewood CA 90305-2819",
+    "delivery_point_barcode": "903052819337",
+    "components": {
+      "primary_number": "9233",
+      "street_predirection": "S",
+      "street_name": "4th",
+      "street_suffix": "Ave",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90305",
+      "plus4_code": "2819",
+      "delivery_point": "33",
+      "delivery_point_check_digit": "7"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C012",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0044",
+      "elot_sort": "A",
+      "latitude": 33.95331,
+      "longitude": -118.3211,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

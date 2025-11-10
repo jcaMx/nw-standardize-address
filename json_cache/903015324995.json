@@ -1,0 +1,49 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "719 S Flower St",
+    "last_line": "Inglewood CA 90301-5324",
+    "delivery_point_barcode": "903015324995",
+    "components": {
+      "primary_number": "719",
+      "street_predirection": "S",
+      "street_name": "Flower",
+      "street_suffix": "St",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90301",
+      "plus4_code": "5324",
+      "delivery_point": "99",
+      "delivery_point_check_digit": "5"
+    },
+    "metadata": {
+      "record_type": "H",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C017",
+      "congressional_district": "43",
+      "building_default_indicator": "Y",
+      "rdi": "Residential",
+      "elot_sequence": "0241",
+      "elot_sort": "A",
+      "latitude": 33.95511,
+      "longitude": -118.34705,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "D",
+      "dpv_footnotes": "AAN1",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "Y",
+      "active": "Y",
+      "footnotes": "H#"
+    }
+  }
+]

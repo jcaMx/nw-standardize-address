@@ -1,0 +1,14 @@
+{
+  "row_index": 609,
+  "sent_params": {
+    "auth-id": "c158cf93-8a4d-c43c-dade-f372cbeac850",
+    "auth-token": "e7UMwEf0GevqQpxwdLaO",
+    "street": "3665 Kensley Dr",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305"
+  },
+  "input_secondary": "",
+  "timestamp": "2025-11-09T06:40:12.900951Z",
+  "status_code": 200
+}

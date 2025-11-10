@@ -1,0 +1,13 @@
+{
+  "row_index": 4706,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "2906 W 85th St",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305"
+  },
+  "timestamp": "2025-11-09T09:48:34.453409Z",
+  "status_code": 200
+}

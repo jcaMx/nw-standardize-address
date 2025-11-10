@@ -1,0 +1,13 @@
+{
+  "row_index": 2624,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "3505 W 85th St",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305"
+  },
+  "timestamp": "2025-11-09T09:11:01.586214Z",
+  "status_code": 200
+}

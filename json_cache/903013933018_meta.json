@@ -1,0 +1,14 @@
+{
+  "row_index": 196,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "901 Larch St",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90301",
+    "secondary": "Apt 1"
+  },
+  "timestamp": "2025-11-09T08:27:04.182841Z",
+  "status_code": 200
+}

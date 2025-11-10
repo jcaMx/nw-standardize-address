@@ -1,0 +1,14 @@
+{
+  "row_index": 444,
+  "sent_params": {
+    "auth-id": "c158cf93-8a4d-c43c-dade-f372cbeac850",
+    "auth-token": "e7UMwEf0GevqQpxwdLaO",
+    "street": "9619 S 10th Ave",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305"
+  },
+  "input_secondary": "",
+  "timestamp": "2025-11-09T06:35:49.567937Z",
+  "status_code": 200
+}

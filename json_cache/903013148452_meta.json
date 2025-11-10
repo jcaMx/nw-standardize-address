@@ -1,0 +1,14 @@
+{
+  "row_index": 1528,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "945 S Cedar Ave",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90301",
+    "secondary": "Unit"
+  },
+  "timestamp": "2025-11-09T08:50:41.478409Z",
+  "status_code": 200
+}

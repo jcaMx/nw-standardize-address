@@ -1,0 +1,47 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "200 N Locust St",
+    "last_line": "Inglewood CA 90301-1204",
+    "delivery_point_barcode": "903011204000",
+    "components": {
+      "primary_number": "200",
+      "street_predirection": "N",
+      "street_name": "Locust",
+      "street_suffix": "St",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90301",
+      "plus4_code": "1204",
+      "delivery_point": "00",
+      "delivery_point_check_digit": "0"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C001",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0290",
+      "elot_sort": "D",
+      "latitude": 33.96558,
+      "longitude": -118.3503,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

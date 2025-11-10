@@ -1,0 +1,13 @@
+{
+  "row_index": 3679,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "3309 W 76th St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipcode": "90043"
+  },
+  "timestamp": "2025-11-09T09:30:05.061562Z",
+  "status_code": 200
+}

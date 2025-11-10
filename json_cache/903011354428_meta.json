@@ -1,0 +1,13 @@
+{
+  "row_index": 1934,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "242 N Hillcrest Blvd",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90301"
+  },
+  "timestamp": "2025-11-09T08:58:17.548983Z",
+  "status_code": 200
+}

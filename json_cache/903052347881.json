@@ -1,0 +1,48 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "3688 W Chapman Ln",
+    "last_line": "Inglewood CA 90305-2347",
+    "delivery_point_barcode": "903052347881",
+    "components": {
+      "primary_number": "3688",
+      "street_predirection": "W",
+      "street_name": "Chapman",
+      "street_suffix": "Ln",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90305",
+      "plus4_code": "2347",
+      "delivery_point": "88",
+      "delivery_point_check_digit": "1"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C013",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0066",
+      "elot_sort": "D",
+      "latitude": 33.95554,
+      "longitude": -118.33337,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y",
+      "footnotes": "L#"
+    }
+  }
+]

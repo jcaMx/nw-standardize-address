@@ -1,0 +1,47 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "257 N Hillcrest Blvd",
+    "last_line": "Inglewood CA 90301-1310",
+    "delivery_point_barcode": "903011310570",
+    "components": {
+      "primary_number": "257",
+      "street_predirection": "N",
+      "street_name": "Hillcrest",
+      "street_suffix": "Blvd",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90301",
+      "plus4_code": "1310",
+      "delivery_point": "57",
+      "delivery_point_check_digit": "0"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C001",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0328",
+      "elot_sort": "D",
+      "latitude": 33.96674,
+      "longitude": -118.34877,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

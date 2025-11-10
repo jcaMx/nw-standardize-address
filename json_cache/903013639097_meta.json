@@ -1,0 +1,13 @@
+{
+  "row_index": 1273,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "4909 W 96th St",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90301"
+  },
+  "timestamp": "2025-11-09T08:46:10.081366Z",
+  "status_code": 200
+}

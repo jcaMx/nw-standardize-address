@@ -1,0 +1,13 @@
+{
+  "row_index": 585,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "1120 S Truro Ave",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90301"
+  },
+  "timestamp": "2025-11-09T08:33:57.109229Z",
+  "status_code": 200
+}

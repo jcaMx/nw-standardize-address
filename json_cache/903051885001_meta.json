@@ -1,0 +1,13 @@
+{
+  "row_index": 308,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "3600 W Luther Ln",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305"
+  },
+  "timestamp": "2025-11-09T07:48:29.444472Z",
+  "status_code": 200
+}

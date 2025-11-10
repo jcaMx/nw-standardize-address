@@ -1,0 +1,13 @@
+{
+  "row_index": 574,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "1228 S Fir Ave",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90301"
+  },
+  "timestamp": "2025-11-09T08:33:45.188973Z",
+  "status_code": 200
+}

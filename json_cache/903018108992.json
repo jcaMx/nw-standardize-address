@@ -1,0 +1,49 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "1230 S Inglewood Ave",
+    "last_line": "Inglewood CA 90301-8108",
+    "delivery_point_barcode": "903018108992",
+    "components": {
+      "primary_number": "1230",
+      "street_predirection": "S",
+      "street_name": "Inglewood",
+      "street_suffix": "Ave",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90301",
+      "plus4_code": "8108",
+      "delivery_point": "99",
+      "delivery_point_check_digit": "2"
+    },
+    "metadata": {
+      "record_type": "H",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C018",
+      "congressional_district": "43",
+      "building_default_indicator": "Y",
+      "rdi": "Residential",
+      "elot_sequence": "0084",
+      "elot_sort": "A",
+      "latitude": 33.946,
+      "longitude": -118.36122,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "D",
+      "dpv_footnotes": "AAN1",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "Y",
+      "active": "Y",
+      "footnotes": "H#"
+    }
+  }
+]

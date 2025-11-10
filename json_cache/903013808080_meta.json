@@ -1,0 +1,13 @@
+{
+  "row_index": 362,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "1108 S Grevillea Ave",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90301"
+  },
+  "timestamp": "2025-11-09T08:29:57.658283Z",
+  "status_code": 200
+}

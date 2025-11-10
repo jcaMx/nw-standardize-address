@@ -1,0 +1,13 @@
+{
+  "row_index": 5571,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "8815 S Van Ness Ave",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305"
+  },
+  "timestamp": "2025-11-09T10:04:37.092000Z",
+  "status_code": 200
+}

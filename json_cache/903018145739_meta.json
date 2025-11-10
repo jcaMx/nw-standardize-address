@@ -1,0 +1,14 @@
+{
+  "row_index": 1051,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "1000 S Inglewood Avenue",
+    "city": "Inglewood",
+    "state": "California",
+    "zipcode": "90301",
+    "secondary": "A"
+  },
+  "timestamp": "2025-11-09T08:42:11.482013Z",
+  "status_code": 200
+}

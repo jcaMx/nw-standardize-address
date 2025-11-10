@@ -1,0 +1,13 @@
+{
+  "row_index": 1481,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "4841 W Century Blvd",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90304"
+  },
+  "timestamp": "2025-11-09T08:49:49.804949Z",
+  "status_code": 200
+}

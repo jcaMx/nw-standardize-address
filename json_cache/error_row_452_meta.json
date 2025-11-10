@@ -1,0 +1,14 @@
+{
+  "row_index": 452,
+  "sent_params": {
+    "auth-id": "c158cf93-8a4d-c43c-dade-f372cbeac850",
+    "auth-token": "e7UMwEf0GevqQpxwdLaO",
+    "street": "9807 S 10th Ave",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305"
+  },
+  "input_secondary": "",
+  "timestamp": "2025-11-09T06:35:58.533972Z",
+  "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+}

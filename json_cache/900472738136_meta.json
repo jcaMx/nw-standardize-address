@@ -1,0 +1,13 @@
+{
+  "row_index": 4347,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "1713 W 82nd St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipcode": "90047"
+  },
+  "timestamp": "2025-11-09T09:42:06.541692Z",
+  "status_code": 200
+}

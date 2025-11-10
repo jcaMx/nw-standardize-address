@@ -1,0 +1,13 @@
+{
+  "row_index": 4926,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "8234 Park Cir",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305"
+  },
+  "timestamp": "2025-11-09T09:52:34.493656Z",
+  "status_code": 200
+}

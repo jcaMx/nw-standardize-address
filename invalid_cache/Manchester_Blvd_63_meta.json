@@ -1,0 +1,14 @@
+{
+  "row_index": 63,
+  "sent_params": {
+    "auth-id": "c158cf93-8a4d-c43c-dade-f372cbeac850",
+    "auth-token": "e7UMwEf0GevqQpxwdLaO",
+    "street": "3116 Manchester Blvd",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305"
+  },
+  "input_secondary": "",
+  "timestamp": "2025-11-09T06:25:35.067320Z",
+  "status_code": 200
+}

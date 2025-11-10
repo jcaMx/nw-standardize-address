@@ -1,0 +1,13 @@
+{
+  "row_index": 1430,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "9801 Redfern Ave",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90301"
+  },
+  "timestamp": "2025-11-09T08:48:56.265404Z",
+  "status_code": 200
+}

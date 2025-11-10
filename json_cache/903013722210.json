@@ -1,0 +1,47 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "1121 S Fir Ave",
+    "last_line": "Inglewood CA 90301-3722",
+    "delivery_point_barcode": "903013722210",
+    "components": {
+      "primary_number": "1121",
+      "street_predirection": "S",
+      "street_name": "Fir",
+      "street_suffix": "Ave",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90301",
+      "plus4_code": "3722",
+      "delivery_point": "21",
+      "delivery_point_check_digit": "0"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C012",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0115",
+      "elot_sort": "A",
+      "latitude": 33.94816,
+      "longitude": -118.35705,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

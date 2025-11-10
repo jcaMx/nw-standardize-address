@@ -1,0 +1,49 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "3214 W 71st St Apt 1",
+    "last_line": "Los Angeles CA 90043-4760",
+    "delivery_point_barcode": "900434760016",
+    "components": {
+      "primary_number": "3214",
+      "street_predirection": "W",
+      "street_name": "71st",
+      "street_suffix": "St",
+      "secondary_number": "1",
+      "secondary_designator": "Apt",
+      "city_name": "Los Angeles",
+      "default_city_name": "Los Angeles",
+      "state_abbreviation": "CA",
+      "zipcode": "90043",
+      "plus4_code": "4760",
+      "delivery_point": "01",
+      "delivery_point_check_digit": "6"
+    },
+    "metadata": {
+      "record_type": "H",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C016",
+      "congressional_district": "37",
+      "rdi": "Residential",
+      "elot_sequence": "0153",
+      "elot_sort": "A",
+      "latitude": 33.9756,
+      "longitude": -118.32816,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "3017 W 78th Pl",
+    "last_line": "Inglewood CA 90305-1029",
+    "delivery_point_barcode": "903051029173",
+    "components": {
+      "primary_number": "3017",
+      "street_predirection": "W",
+      "street_name": "78th",
+      "street_suffix": "Pl",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90305",
+      "plus4_code": "1029",
+      "delivery_point": "17",
+      "delivery_point_check_digit": "3"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C010",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0023",
+      "elot_sort": "A",
+      "latitude": 33.96826,
+      "longitude": -118.32595,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

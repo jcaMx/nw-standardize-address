@@ -1,0 +1,14 @@
+{
+  "row_index": 5840,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "7301 Crenshaw Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipcode": "90043",
+    "secondary": "Apt 103"
+  },
+  "timestamp": "2025-11-09T10:09:52.413442Z",
+  "status_code": 200
+}

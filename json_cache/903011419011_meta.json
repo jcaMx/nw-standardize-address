@@ -1,0 +1,14 @@
+{
+  "row_index": 1915,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "638 Howland Dr",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90301",
+    "secondary": "Apt 1"
+  },
+  "timestamp": "2025-11-09T08:57:55.386790Z",
+  "status_code": 200
+}

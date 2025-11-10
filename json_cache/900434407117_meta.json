@@ -1,0 +1,13 @@
+{
+  "row_index": 3063,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "6711 6th Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipcode": "90043"
+  },
+  "timestamp": "2025-11-09T09:18:59.199048Z",
+  "status_code": 200
+}

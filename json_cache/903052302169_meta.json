@@ -1,0 +1,14 @@
+{
+  "row_index": 135,
+  "sent_params": {
+    "auth-id": "c158cf93-8a4d-c43c-dade-f372cbeac850",
+    "auth-token": "e7UMwEf0GevqQpxwdLaO",
+    "street": "8616 S 11Th Ave",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305"
+  },
+  "input_secondary": "",
+  "timestamp": "2025-11-09T06:27:37.366994Z",
+  "status_code": 200
+}

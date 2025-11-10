@@ -1,0 +1,46 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "616 Grace Ave",
+    "last_line": "Inglewood CA 90301-1307",
+    "delivery_point_barcode": "903011307169",
+    "components": {
+      "primary_number": "616",
+      "street_name": "Grace",
+      "street_suffix": "Ave",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90301",
+      "plus4_code": "1307",
+      "delivery_point": "16",
+      "delivery_point_check_digit": "9"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C030",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0342",
+      "elot_sort": "A",
+      "latitude": 33.96832,
+      "longitude": -118.34633,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

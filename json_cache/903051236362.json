@@ -1,0 +1,47 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "3436 W 79th St",
+    "last_line": "Inglewood CA 90305-1236",
+    "delivery_point_barcode": "903051236362",
+    "components": {
+      "primary_number": "3436",
+      "street_predirection": "W",
+      "street_name": "79th",
+      "street_suffix": "St",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90305",
+      "plus4_code": "1236",
+      "delivery_point": "36",
+      "delivery_point_check_digit": "2"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C001",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0104",
+      "elot_sort": "A",
+      "latitude": 33.96716,
+      "longitude": -118.33222,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

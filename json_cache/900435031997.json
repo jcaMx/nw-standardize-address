@@ -1,0 +1,49 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "3207 W 73rd St",
+    "last_line": "Los Angeles CA 90043-5031",
+    "delivery_point_barcode": "900435031997",
+    "components": {
+      "primary_number": "3207",
+      "street_predirection": "W",
+      "street_name": "73rd",
+      "street_suffix": "St",
+      "city_name": "Los Angeles",
+      "default_city_name": "Los Angeles",
+      "state_abbreviation": "CA",
+      "zipcode": "90043",
+      "plus4_code": "5031",
+      "delivery_point": "99",
+      "delivery_point_check_digit": "7"
+    },
+    "metadata": {
+      "record_type": "H",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C016",
+      "congressional_district": "37",
+      "building_default_indicator": "Y",
+      "rdi": "Residential",
+      "elot_sequence": "0235",
+      "elot_sort": "A",
+      "latitude": 33.97372,
+      "longitude": -118.32865,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "D",
+      "dpv_footnotes": "AAN1",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "Y",
+      "active": "Y",
+      "footnotes": "H#"
+    }
+  }
+]

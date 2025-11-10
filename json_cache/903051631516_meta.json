@@ -1,0 +1,13 @@
+{
+  "row_index": 2447,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "8251 Crenshaw Dr",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305"
+  },
+  "timestamp": "2025-11-09T09:07:48.050191Z",
+  "status_code": 200
+}

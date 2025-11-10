@@ -1,0 +1,14 @@
+{
+  "row_index": 2180,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "712 Manchester Dr",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90301",
+    "secondary": "Apt A"
+  },
+  "timestamp": "2025-11-09T09:02:48.970804Z",
+  "status_code": 200
+}

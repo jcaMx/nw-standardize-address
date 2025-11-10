@@ -1,0 +1,47 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "1120 E La Palma Dr",
+    "last_line": "Inglewood CA 90301-3669",
+    "delivery_point_barcode": "903013669201",
+    "components": {
+      "primary_number": "1120",
+      "street_predirection": "E",
+      "street_name": "La Palma",
+      "street_suffix": "Dr",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90301",
+      "plus4_code": "3669",
+      "delivery_point": "20",
+      "delivery_point_check_digit": "1"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C007",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0243",
+      "elot_sort": "A",
+      "latitude": 33.95525,
+      "longitude": -118.34587,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

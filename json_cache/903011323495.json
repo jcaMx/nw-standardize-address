@@ -1,0 +1,46 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "249 Regent Cir",
+    "last_line": "Inglewood CA 90301-1323",
+    "delivery_point_barcode": "903011323495",
+    "components": {
+      "primary_number": "249",
+      "street_name": "Regent",
+      "street_suffix": "Cir",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90301",
+      "plus4_code": "1323",
+      "delivery_point": "49",
+      "delivery_point_check_digit": "5"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C030",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0101",
+      "elot_sort": "D",
+      "latitude": 33.96545,
+      "longitude": -118.34701,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

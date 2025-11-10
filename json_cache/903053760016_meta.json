@@ -1,0 +1,15 @@
+{
+  "row_index": 356,
+  "sent_params": {
+    "auth-id": "c158cf93-8a4d-c43c-dade-f372cbeac850",
+    "auth-token": "e7UMwEf0GevqQpxwdLaO",
+    "street": "3211 W Arbor Vitae St",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305",
+    "secondary": "Apt 1"
+  },
+  "input_secondary": "Apt 1",
+  "timestamp": "2025-11-09T06:33:07.967309Z",
+  "status_code": 200
+}

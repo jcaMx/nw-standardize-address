@@ -1,0 +1,14 @@
+{
+  "row_index": 2764,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "3217 W 84th Pl",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305",
+    "secondary": "Apt A"
+  },
+  "timestamp": "2025-11-09T09:13:42.449970Z",
+  "status_code": 200
+}

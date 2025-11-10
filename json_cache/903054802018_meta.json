@@ -1,0 +1,15 @@
+{
+  "row_index": 343,
+  "sent_params": {
+    "auth-id": "c158cf93-8a4d-c43c-dade-f372cbeac850",
+    "auth-token": "e7UMwEf0GevqQpxwdLaO",
+    "street": "3319 Hollypark Dr",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305",
+    "secondary": "Apt 1"
+  },
+  "input_secondary": "Apt 1",
+  "timestamp": "2025-11-09T06:32:48.567821Z",
+  "status_code": 200
+}

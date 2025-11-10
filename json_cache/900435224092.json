@@ -1,0 +1,46 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "7409 8th Ave",
+    "last_line": "Los Angeles CA 90043-5224",
+    "delivery_point_barcode": "900435224092",
+    "components": {
+      "primary_number": "7409",
+      "street_name": "8th",
+      "street_suffix": "Ave",
+      "city_name": "Los Angeles",
+      "default_city_name": "Los Angeles",
+      "state_abbreviation": "CA",
+      "zipcode": "90043",
+      "plus4_code": "5224",
+      "delivery_point": "09",
+      "delivery_point_check_digit": "2"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C009",
+      "congressional_district": "37",
+      "rdi": "Residential",
+      "elot_sequence": "0102",
+      "elot_sort": "A",
+      "latitude": 33.97229,
+      "longitude": -118.32658,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

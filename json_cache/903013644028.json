@@ -1,0 +1,47 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "4902 W 97th St",
+    "last_line": "Inglewood CA 90301-3644",
+    "delivery_point_barcode": "903013644028",
+    "components": {
+      "primary_number": "4902",
+      "street_predirection": "W",
+      "street_name": "97th",
+      "street_suffix": "St",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90301",
+      "plus4_code": "3644",
+      "delivery_point": "02",
+      "delivery_point_check_digit": "8"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C026",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0127",
+      "elot_sort": "D",
+      "latitude": 33.94849,
+      "longitude": -118.36385,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

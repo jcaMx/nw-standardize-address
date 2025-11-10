@@ -1,0 +1,13 @@
+{
+  "row_index": 1039,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "1044 S Inglewood Ave",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90301"
+  },
+  "timestamp": "2025-11-09T08:41:58.703444Z",
+  "status_code": 200
+}

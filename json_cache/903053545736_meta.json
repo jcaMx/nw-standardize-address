@@ -1,0 +1,15 @@
+{
+  "row_index": 714,
+  "sent_params": {
+    "auth-id": "c158cf93-8a4d-c43c-dade-f372cbeac850",
+    "auth-token": "e7UMwEf0GevqQpxwdLaO",
+    "street": "8726 Beckenham Ln",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305",
+    "secondary": "# A"
+  },
+  "input_secondary": "# A",
+  "timestamp": "2025-11-09T06:42:59.417980Z",
+  "status_code": 200
+}

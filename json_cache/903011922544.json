@@ -1,0 +1,46 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "654 Manchester Ter",
+    "last_line": "Inglewood CA 90301-1922",
+    "delivery_point_barcode": "903011922544",
+    "components": {
+      "primary_number": "654",
+      "street_name": "Manchester",
+      "street_suffix": "Ter",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90301",
+      "plus4_code": "1922",
+      "delivery_point": "54",
+      "delivery_point_check_digit": "4"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C019",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0332",
+      "elot_sort": "A",
+      "latitude": 33.96159,
+      "longitude": -118.34482,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "Y",
+      "dpv_footnotes": "AABB",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

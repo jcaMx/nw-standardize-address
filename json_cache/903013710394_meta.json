@@ -1,0 +1,13 @@
+{
+  "row_index": 953,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "939 S Eucalyptus Avenue",
+    "city": "Inglewood",
+    "state": "California",
+    "zipcode": "90301"
+  },
+  "timestamp": "2025-11-09T08:40:30.120427Z",
+  "status_code": 200
+}

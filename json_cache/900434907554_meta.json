@@ -1,0 +1,13 @@
+{
+  "row_index": 5971,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "3455 W 78th Pl",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipcode": "90043"
+  },
+  "timestamp": "2025-11-09T10:12:18.784945Z",
+  "status_code": 200
+}

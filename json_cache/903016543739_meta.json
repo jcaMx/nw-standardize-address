@@ -1,0 +1,14 @@
+{
+  "row_index": 488,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "625 E 97th St",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90301",
+    "secondary": "Apt A"
+  },
+  "timestamp": "2025-11-09T07:52:09.136695Z",
+  "status_code": 200
+}
