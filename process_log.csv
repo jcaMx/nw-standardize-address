@@ -7020,3 +7020,6 @@ timestamp,row_index,street,status,filename,http_code,error_message
 2025-11-09T10:13:10.691864Z,6017,3536 W Florence Ave,success,900435524369,200,
 2025-11-09T10:13:11.830345Z,6018,3974 W Florence Ave,invalid_json,row_6018,200,Empty or invalid JSON
 2025-11-09T10:13:12.467799Z,6019,5544 W Florence Ave,invalid_json,row_6019,200,Empty or invalid JSON
+2025-11-12T11:37:05.144034Z,0,1201 1/2 Myrtle Avenue,pre_validation_fail,row_0,,Pre-validation rejected
+2025-11-12T11:37:05.177658Z,1,1201 3/4 Myrtle Avenue,pre_validation_fail,row_1,,Pre-validation rejected
+2025-11-12T11:37:07.017302Z,2,2 E Nutwood Street,invalid_json,row_2,200,Empty or invalid JSON
