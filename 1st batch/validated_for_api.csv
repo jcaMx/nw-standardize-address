@@ -1,0 +1,114 @@
+TerritoryID,TerritoryNumber,CategoryCode,Category,TerritoryAddressID,ApartmentNumber,Number,Street,Suburb,PostalCode,State,Name,Phone,Type,Status,NotHomeAttempt,Date1,Date2,Date3,Date4,Date5,Language,Latitude,Longitude,Notes,NotesFromPublisher,Process Notes,original_cache_file,moved_timestamp,_status
+855894.0,26,,,2586024.0,Unit,1201 1/2,Myrtle Ave,Inglewood,90301,CA,,,Apartment,Available,0.0,,,,,,,33.94716,-118.349246,,,,,,success
+549915.0,28,,,9683358.0,Unit,522 1/2,E Kelso St,Inglewood,90301,CA,,,Apartment,Available,0.0,,,,,,,33.9571485,-118.3491644,,,,,,success
+278155.0,30,,,6236941.0,,710 1/2,Larch St,Inglewood,90301,CA,,,House,Available,0.0,,,,,,,33.9510217,-118.3509071,,,,,,success
+278155.0,30,,,2468539.0,,712 1/2,Larch St,Inglewood,90301,CA,,,House,NotHome,1.0,2024/11/09,,,,,,33.9510217,-118.3509071,,,,,,success
+669178.0,34,,,1744277.0,Unit,1217 1/2,Maple St,Inglewood,90301,CA,,,Apartment,Available,0.0,,,,,,,33.9468835,-118.3536673,,,,,,success
+171827.0,39,,,1103314.0,,1210 1/2,S Inglewood Ave,Inglewood,90301,CA,,,House,NotHome,1.0,2025/04/23,,,,,,33.9622501,-118.3617352,,,,,,success
+604395.0,41,,,5587694.0,,1016 1/2,S Inglewood Ave,Inglewood,90301,CA,,,House,Custom1,0.0,2024/12/23,,,,,,33.9622501,-118.3617352,,,,,,success
+604395.0,41,,,8909917.0,,1018 1/2,S Inglewood Ave,Inglewood,90301,CA,,,House,NotHome,1.0,2024/12/23,,,,,,33.9622501,-118.3617352,,,,,,success
+604395.0,41,,,1752572.0,,1020 1/2,S Inglewood Ave,Inglewood,90301,CA,,,House,NotHome,1.0,2024/12/23,,,,,,33.9524563,-118.361403,,locked,,,,success
+604395.0,41,,,4359827.0,,1024 1/2,S Inglewood Ave,Inglewood,90301,CA,,,House,Available,0.0,,,,,,,33.9622501,-118.3617352,,,,,,success
+114595.0,43,,,5743149.0,Unit,9530 1/2,Felton Ave,Inglewood,90301,CA,,,Apartment,Available,0.0,,,,,,,33.9498442,-118.365528,,,,,,success
+114595.0,43,,,6401117.0,,4853 1/2,W 98th St,Inglewood,90301,CA,,,House,Available,0.0,,,,,,,33.94728,-118.354924,,,,,,success
+114595.0,43,,,7300845.0,Unit,4901 1/2,W 98th St,Inglewood,90301,CA,,,Apartment,Available,0.0,,,,,,,33.947388,-118.36376,,,,,,success
+366434.0,44,,,5388963.0,,4936 1/2,W 98th St,Inglewood,90301,CA,,,House,Available,0.0,,,,,,,33.947259,-118.361342,,,,,,success
+366434.0,44,,,2735525.0,Unit,4903 1/2,W 99th St,Inglewood,90301,CA,,,Apartment,Custom1,0.0,2025/01/15,,,,,,33.9463912,-118.3643114,,No Trespassing,,,,success
+366434.0,44,,,9664641.0,,4913 1/2,W 99th St,Inglewood,90301,CA,,,House,Available,0.0,,,,,,,33.9463912,-118.3643114,,,,,,success
+660550.0,45,,,8896878.0,Unit,4940 1/2,W 99th St,Inglewood,90304,CA,,,Apartment,NotHome,1.0,2025/02/15,,,,,,33.9462934,-118.3638296,,,,,,success
+821256.0,47,,,1340313.0,,905 1/2,Kenwood St,Inglewood,90301,CA,,,House,NotHome,2.0,,2025/06/02,,,,,33.9522519,-118.3667859,,,,,,success
+821256.0,47,,,6441151.0,,612 1/2,W Arbor Vitae St,Inglewood,90301,CA,,,House,Available,0.0,,,,,,,33.95335,-118.3301634,,,,,,success
+841750.0,48,,,8573922.0,,9610 1/2,Ocean Gate Ave,Inglewood,90301,CA,,,House,Available,0.0,,,,,,,33.9477257,-118.3677828,,locked gate with dog,,,,success
+841750.0,48,,,8637205.0,,9724 1/2,Ocean Gate Ave,Inglewood,90301,CA,,,House,NotHome,1.0,2025/05/05,,,,,,33.95023,-118.367749,,,,,,success
+841750.0,48,,,1544966.0,,9528 1/2,Redfern Ave,Inglewood,90301,CA,,,House,Available,0.0,,,,,,,33.950236,-118.366659,,,,,,success
+841750.0,48,,,3472281.0,,9715 1/2,Redfern Ave,Inglewood,90301,CA,,,House,NotHome,1.0,2025/04/21,,,,,,33.950236,-118.366659,,,,,,success
+909272.0,52,,,7205351.0,Apt 1,416,E Regent St,Inglewood,0,CA,,,Apartment,Home,0.0,2025/01/22,,,,,,33.9643986,-118.3497668,,,,,,success
+291807.0,53,,,7899356.0,Unit,662 1/2,Aerick St,Inglewood,90301,CA,,,Apartment,Available,0.0,,,,,,,33.963512,-118.344215,,,,,,success
+923657.0,54,,,2781630.0,Unit,522 1/2,E Queen St,Inglewood,90301,CA,,,Apartment,Available,0.0,,,,,,,33.9625601,-118.347505,,gate locked,,,,success
+923657.0,54,,,4090736.0,Unit,620 1/2,E Queen St,Inglewood,90301,CA,,,Apartment,Home,0.0,2025/05/17,,,,,,33.9625782,-118.3455995,,,,,,success
+923657.0,54,,,2651711.0,Unit,717 1/2,Manchester Dr,Inglewood,90301,CA,,,Apartment,Home,0.0,2025/04/19,,,,,,33.9607119,-118.3455023,,,,,,success
+923657.0,54,,,9808447.0,Unit 3/4,617 3/4,Manchester Ter,Inglewood,90301,CA,,,Apartment,Available,0.0,,,,,,,33.961756,-118.34599,,,,,,success
+801960.0,57,,,1522614.0,,8209 1/2,Crenshaw Dr,Inglewood,90305,CA,,,House,Home,0.0,2025/05/26,,,,,,33.966346,-118.318857,,,,,,success
+801960.0,57,,,5766716.0,,8255 1/2,Crenshaw Dr,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.966346,-118.318857,,,,,,success
+801960.0,57,,,8594274.0,,8259 1/2,Crenshaw Dr,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.966346,-118.318857,,,,,,success
+801960.0,57,,,1033636.0,,8263 1/2,Crenshaw Dr,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.966346,-118.318857,,,,,,success
+801960.0,57,,,8070088.0,,8311 1/2,Crenshaw Dr,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.9646049,-118.33091,,locked gate,,,,success
+801960.0,57,,,6656843.0,,8407 1/2,Crenshaw Dr,Inglewood,90305,CA,,,House,NotHome,1.0,2025/05/16,,,,,,33.966346,-118.318857,,,,,,success
+801960.0,57,,,1483448.0,,8409 1/2,Crenshaw Dr,Inglewood,90305,CA,,,House,NotHome,1.0,2025/05/16,,,,,,33.966346,-118.318857,,,,,,success
+801960.0,57,,,2222283.0,,8413 1/2,Crenshaw Dr,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.966346,-118.318857,,,,,,success
+801960.0,57,,,1339912.0,,8417 1/2,Crenshaw Dr,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.966346,-118.318857,,,,,,success
+801960.0,57,,,2027286.0,,8421 1/2,Crenshaw Dr,Inglewood,90305,CA,,,House,NotHome,1.0,2025/05/16,,,,,,33.966346,-118.318857,,,,,,success
+801960.0,57,,,5910457.0,Unit,3404 1/2,W 83rd St,Inglewood,90305,CA,,,Apartment,Home,0.0,2025/05/02,,,,,,33.966346,-118.318857,,,,,,success
+786471.0,59,,,5228845.0,Unit,6717 1/2,10th Ave,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.9776527,-118.328044,,,,,,success
+786471.0,59,,,8904057.0,Unit,6717 1/4,10th Ave,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.9776527,-118.328044,,,,,,success
+786471.0,59,,,1739345.0,Unit 3/4,6717 3/4,10th Ave,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.9776527,-118.328044,,,,,,success
+786471.0,59,,,2437430.0,Unit,6805 1/2,10th Ave,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,34.003685,-118.319268,,,,,,success
+786471.0,59,,,3523856.0,Unit,6805 1/4,10th Ave,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,34.003676,-118.321384,,,,,,success
+786471.0,59,,,6931117.0,Unit,6901 1/4,10th Ave,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.976228,-118.3280528,,,,,,success
+786471.0,59,,,1068198.0,,6905 1/2,10th Ave,Los Angeles,90043,CA,,,House,NotHome,1.0,2025/05/26,,,,,,34.003685,-118.319268,,,,,,success
+786471.0,59,,,1802866.0,Unit,6828 1/2,11th Ave,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.9959403,-118.3294089,,,,,,success
+786471.0,59,,,8717796.0,Unit,6828 1/4,11th Ave,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.9959403,-118.3294089,,,,,,success
+786471.0,59,,,8341110.0,,7005 1/2,8th Ave,Los Angeles,90043,CA,,,House,NotHome,1.0,2025/05/26,,,,,,33.997381,-118.3258035,,,,,,success
+786471.0,59,,,3466007.0,Unit,6812 1/2,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.9775011,-118.3307683,,,,,,success
+786471.0,59,,,6334966.0,Unit,6812 1/4,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.9775011,-118.3307683,,,,,,success
+786471.0,59,,,2493438.0,Unit 3/4,6812 3/4,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.9775011,-118.3307683,,,,,,success
+786471.0,59,,,9829856.0,,3119 1/2,W Florence Ave,Los Angeles,90043,CA,,,House,Available,0.0,,,,,,,34.003685,-118.319268,,,,,,success
+150346.0,61,,,4815223.0,,2610 1/2,W Florence Ave,Los Angeles,90043,CA,,,House,Available,0.0,,,,,,,33.9744889,-118.335232,,,,,,success
+150346.0,61,,,7699554.0,,2914 1/2,W Florence Ave,Los Angeles,90043,CA,,,House,Available,0.0,,,,,,,33.9744889,-118.335232,,,,,,success
+203076.0,63,,,6075665.0,,2610,W 78th St,Inglewood,90305-1016,NAN,,,House,Available,0.0,,,,,,,33.9690067,-118.3222877,,,,,,success
+203076.0,63,,,7991340.0,,2710,W 78th St,Inglewood,90305-1018,NAN,,,House,Available,0.0,,,,,,,33.9690033,-118.322925,,,,,,success
+203076.0,63,,,6768372.0,,2723,W 78th St,Inglewood,90305-1017,NAN,,,House,Available,0.0,,,,,,,33.9691679,-118.3230024,,,,,,success
+203076.0,63,,,2085752.0,,2729,W 78th St,Inglewood,90305-1017,NAN,,,House,Available,0.0,,,,,,,33.9691677,-118.3230407,,,,,,success
+203076.0,63,,,5539274.0,,2907,W 78th St,Inglewood,90305-1019,NAN,,,House,Available,0.0,,,,,,,33.9691596,-118.3244787,,,,,,success
+729086.0,64,,,9389215.0,Unit,7606 1/2,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,NotHome,2.0,,2025/02/26,,,,,33.9707254,-118.3307421,,,,,,success
+729086.0,64,,,6886828.0,Unit,7606 1/4,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,Home,0.0,,,,,,,33.9707254,-118.3307421,,,,,,success
+729086.0,64,,,3879860.0,Unit 3/4,7606 3/4,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,NotHome,1.0,2024/09/07,,,,,,33.9707254,-118.3307421,,,,,,success
+729086.0,64,,,1450089.0,Unit,7616 1/2,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,NotHome,2.0,,2024/09/22,,,,,33.9706578,-118.3307423,,,,,,success
+729086.0,64,,,7513730.0,Unit,7616 1/4,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,NotHome,2.0,,2024/09/22,,,,,33.9706578,-118.3307423,,,,,,success
+729086.0,64,,,9907151.0,Unit 3/4,7616 3/4,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,NotHome,2.0,,2024/09/22,,,,,33.9706578,-118.3307423,,,,,,success
+729086.0,64,,,3053167.0,Unit,7708 1/2,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.9698029,-118.3307441,,,,,,success
+729086.0,64,,,8768911.0,Unit,7708 1/4,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.9698029,-118.3307441,,,,,,success
+729086.0,64,,,9158886.0,Unit 3/4,7708 3/4,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.9698029,-118.3307441,,,,,,success
+729086.0,64,,,5191073.0,Unit,7716 1/2,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,NotHome,1.0,2024/11/01,,,,,,33.9697488,-118.3307442,,,,,,success
+729086.0,64,,,4138030.0,Unit,7716 1/4,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,NotHome,1.0,2024/11/01,,,,,,33.9697488,-118.3307442,,,,,,success
+729086.0,64,,,7388200.0,Unit 3/4,7716 3/4,Crenshaw Blvd,Los Angeles,90043,CA,,,Apartment,NotHome,1.0,2024/11/01,,,,,,33.9697488,-118.3307442,,,,,,success
+729086.0,64,,,7593446.0,Unit,3316 1/2,W 76th St,Los Angeles,90043,CA,,,Apartment,NotHome,3.0,,,2025/02/26,,,,33.9708117,-118.3299101,,,,,,success
+729086.0,64,,,3619525.0,Unit,3316 1/4,W 76th St,Los Angeles,90043,CA,,,Apartment,NotHome,2.0,,2024/09/22,,,,,33.9708117,-118.3299101,,,,,,success
+729086.0,64,,,1849078.0,Unit 3/4,3316 3/4,W 76th St,Los Angeles,90043,CA,,,Apartment,NotHome,3.0,,,2025/02/26,,,,33.9708117,-118.3299101,,,,,,success
+729086.0,64,,,8842250.0,Unit,3320 1/2,W 76th St,Los Angeles,90043,CA,,,Apartment,NotHome,1.0,2025/02/26,,,,,,33.9708742,-118.3314117,,,,,,success
+729086.0,64,,,7804953.0,Unit,3320 1/4,W 76th St,Los Angeles,90043,CA,,,Apartment,Home,0.0,2025/02/26,,,,,,33.9708115,-118.3299482,,,,,,success
+729086.0,64,,,8069691.0,Unit 3/4,3320 3/4,W 76th St,Los Angeles,90043,CA,,,Apartment,NotHome,1.0,2025/02/26,,,,,,33.9708115,-118.3299482,,,,,,success
+729086.0,64,,,6656881.0,,3320 1/2,W 77th St,Los Angeles,90043,CA,,,House,NotHome,1.0,2024/11/01,,,,,,33.9699764,-118.3221149,,,,,,success
+729086.0,64,,,5052667.0,,3321 1/2,W 77th St,Los Angeles,90043,CA,,,House,NotHome,1.0,2024/11/01,,,,,,34.003685,-118.319268,,,,,,success
+729086.0,64,,,6141420.0,Unit,3317 1/2,W 78th St,Los Angeles,90043,CA,,,Apartment,NotHome,1.0,2024/11/01,,,,,,33.9691569,-118.3299145,,Night worker,,,,success
+729086.0,64,,,5033159.0,Unit,3317 1/4,W 78th St,Los Angeles,90043,CA,,,Apartment,Home,0.0,2024/11/01,,,,,,33.9691569,-118.3299145,,,,,,success
+729086.0,64,,,1152594.0,Unit 3/4,3317 3/4,W 78th St,Los Angeles,90043,CA,,,Apartment,NotHome,1.0,2024/11/01,,,,,,33.9691569,-118.3299145,,,,,,success
+729086.0,64,,,2763168.0,Unit,3321 1/2,W 78th St,Los Angeles,90043,CA,,,Apartment,NotHome,1.0,2024/11/01,,,,,,33.9691568,-118.3299526,,,,,,success
+729086.0,64,,,9043723.0,Unit,3321 1/4,W 78th St,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,34.003676,-118.321384,,,,,,success
+729086.0,64,,,1941355.0,Unit 3/4,3321 3/4,W 78th St,Los Angeles,90043,CA,,,Apartment,Available,0.0,,,,,,,33.9691568,-118.3299526,,,,,,success
+475609.0,67,,,8649918.0,,8501 1/2,S 5th Ave,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.966346,-118.318857,,,,,,success
+475609.0,67,,,4720519.0,,8501 3/4,S 5th Ave,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.96457,-118.320968,,,,,,success
+475609.0,67,,,6475791.0,,2706 1/2,W 85th St,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.9608785,-118.3330515,,,,,,success
+475609.0,67,,,6070321.0,,2806 1/2,W 85th St,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.9608785,-118.3330515,,,,,,success
+475609.0,67,,,6439482.0,,2814 1/2,W 85th St,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.9608785,-118.3330515,,,,,,success
+475609.0,67,,,4616936.0,,2818 1/2,W 85th St,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.9608785,-118.3330515,,,,,,success
+594667.0,68,,,7566038.0,Unit,2306 1/2,W 79th St,Inglewood,90305,CA,,,Apartment,Available,0.0,,,,,,,33.9671898,-118.3189079,,,,,,success
+731644.0,69,,,1640133.0,,8006 1/2,S 2nd Ave,Inglewood,90305,CA,,,House,Custom1,0.0,2024/12/27,,,,,,33.966346,-118.318857,,,,,,success
+731644.0,69,,,1881268.0,,8010 1/2,S 2nd Ave,Inglewood,90305,CA,,,House,NotHome,1.0,2025/05/28,,,,,,33.966346,-118.318857,,,,,,success
+739018.0,70,,,7505813.0,Unit,8400 1/2,S 2nd Ave,Inglewood,90305,CA,,,Apartment,Available,0.0,,,,,,,33.961682,-118.318659,,,,,,success
+739018.0,70,,,3928150.0,,8402 1/2,S 2nd Ave,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.966346,-118.318857,,,,,,success
+739018.0,70,,,2699264.0,,8406 1/2,S 2nd Ave,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.966346,-118.318857,,,,,,success
+739018.0,70,,,4202742.0,,8406 3/4,S 2nd Ave,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.96457,-118.320968,,,,,,success
+828623.0,71,,,3420031.0,,2408 1/2,W 85th St,Inglewood,90305,CA,,,House,DoNotCall,0.0,,,,,,,33.9607616,-118.3189894,,,,,,success
+828623.0,71,,,9556121.0,Unit,2410 1/2,W 85th St,Inglewood,90305,CA,,,Apartment,Available,0.0,,,,,,,33.9607604,-118.3190067,,,,,,success
+828623.0,71,,,7354578.0,Unit 3/4,2410 3/4,W 85th St,Inglewood,90305,CA,,,Apartment,Available,0.0,,,,,,,33.9607604,-118.3190067,,,,,,success
+828623.0,71,,,1306206.0,,2510 1/2,W 85th St,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.9608785,-118.3330515,,,,,,success
+828623.0,71,,,1539108.0,,2514 1/2,W 85th St,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.9608785,-118.3330515,,,,,,success
+828623.0,71,,,4706947.0,,2604 1/2,W 85th St,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.9608785,-118.3330515,,,,,,success
+732895.0,72,,,1762454.0,Unit,8904 1/2,Crenshaw Blvd,Inglewood,90305,CA,,,Apartment,Available,0.0,,,,,,,33.9571501,-118.3263927,,,,,,success
+732895.0,72,,,9372939.0,Unit,8615 1/2,S 5th Ave,Inglewood,90305,CA,,,Apartment,NotHome,1.0,2025/06/07,,,,,,33.9592764,-118.322165,,,,,,success
+732895.0,72,,,4992811.0,,2908 1/2,W Manchester Blvd,Inglewood,90305,CA,,,House,Available,0.0,,,,,,,33.9599289,-118.3202312,,,,,,success
+955667.0,74,,,8371338.0,Unit,8616 1/2,S 5th Ave,Inglewood,90305,CA,,,Apartment,NotHome,3.0,,,2025/04/19,,,,33.9592642,-118.321967,,,,,,success
+955667.0,74,,,8665277.0,Unit,8616 1/4,S 5th Ave,Inglewood,90305,CA,,,Apartment,NotHome,3.0,,,2025/04/19,,,,33.9592642,-118.321967,,,,,,success
+955667.0,74,,,7081746.0,Unit 3/4,8616 3/4,S 5th Ave,Inglewood,90305,CA,,,Apartment,NotHome,3.0,,,2025/04/19,,,,33.9592642,-118.321967,,,,,,success
+739236.0,P-55,P,Prairie Inglewood,1928099.0,,3436 1/2,W Florence Ave,Los Angeles,90043,CA,,,House,Available,0.0,,,,,,,34.003685,-118.319268,,,,,,success

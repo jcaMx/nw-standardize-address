@@ -1,13 +1,14 @@
 {
-  "row_index": 4957,
+  "row_index": 339,
   "sent_params": {
     "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
     "auth-token": "rOOG4cFXIaOANVasFnu7",
-    "street": "8402 S 2nd Ave",
+    "street": "8402 1/2 S 2nd Ave",
     "city": "Inglewood",
     "state": "CA",
-    "zipcode": "90305"
+    "zipcode": "90305",
+    "secondary": "nan"
   },
-  "timestamp": "2025-11-09T09:53:07.353391Z",
+  "timestamp": "2025-11-16T02:41:19.674551Z",
   "status_code": 200
 }

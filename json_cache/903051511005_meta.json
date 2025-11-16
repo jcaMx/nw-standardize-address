@@ -1,14 +1,14 @@
 {
-  "row_index": 4954,
+  "row_index": 338,
   "sent_params": {
     "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
     "auth-token": "rOOG4cFXIaOANVasFnu7",
-    "street": "8400 S 2nd Ave",
+    "street": "8400 1/2 S 2nd Ave",
     "city": "Inglewood",
     "state": "CA",
     "zipcode": "90305",
     "secondary": "Unit"
   },
-  "timestamp": "2025-11-09T09:53:04.920824Z",
+  "timestamp": "2025-11-16T02:41:18.084074Z",
   "status_code": 200
 }

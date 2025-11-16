@@ -1,0 +1,7 @@
+TerritoryID,TerritoryNumber,CategoryCode,Category,TerritoryAddressID,ApartmentNumber,Number,Street,Suburb,PostalCode,State,Name,Phone,Type,Status,NotHomeAttempt,Date1,Date2,Date3,Date4,Date5,Language,Latitude,Longitude,Notes,NotesFromPublisher,Process Notes,original_cache_file,moved_timestamp,_status
+994894.0,40,,,6770015.0,nan,905,S Eucalyptus Ave,Inglewood,90301,CALIFORNIA,,,House,Available,0.0,,,,,,,33.952476,-118.359286,,,,,,auto_fixed
+994894.0,40,,,3856306.0,nan,304,W Arbor Vitae St,Inglewood,90301,CALIFORNIA,,,House,Available,0.0,,,,,,,33.952476,-118.359429,,,,,,auto_fixed
+994894.0,40,,,1741883.0,nan,308,W Arbor Vitae St,Inglewood,90301,CALIFORNIA,,,House,Available,0.0,,,,,,,33.9524761,-118.3595775,,,,,,auto_fixed
+994894.0,40,,,2486584.0,nan,312,W Arbor Vitae St,Inglewood,90301,CALIFORNIA,,,House,Available,0.0,,,,,,,33.952476,-118.359726,,,,,,auto_fixed
+604395.0,41,,,5466648.0,nan,938,S Inglewood Ave,Inglewood,90301,CALIFORNIA,,,House,Available,0.0,,,,,,,33.951088,-118.360946,,,,,,auto_fixed
+203076.0,63,,,3441741.0,nan,3001,79th St,Inglewood,90305,NAN,,,House,Available,0.0,,,,,,,,,,,,,,auto_fixed

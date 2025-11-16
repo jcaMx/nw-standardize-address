@@ -2,13 +2,15 @@
   {
     "input_index": 0,
     "candidate_index": 0,
-    "delivery_line_1": "8311 Crenshaw Dr",
+    "delivery_line_1": "8311 1/2 Crenshaw Dr # Nan",
     "last_line": "Inglewood CA 90305-1624",
     "delivery_point_barcode": "903051624118",
     "components": {
-      "primary_number": "8311",
+      "primary_number": "8311 1/2",
       "street_name": "Crenshaw",
       "street_suffix": "Dr",
+      "secondary_number": "Nan",
+      "secondary_designator": "#",
       "city_name": "Inglewood",
       "default_city_name": "Inglewood",
       "state_abbreviation": "CA",
@@ -35,8 +37,8 @@
       "dst": true
     },
     "analysis": {
-      "dpv_match_code": "Y",
-      "dpv_footnotes": "AABB",
+      "dpv_match_code": "S",
+      "dpv_footnotes": "AABBCC",
       "dpv_cmra": "N",
       "dpv_vacant": "N",
       "dpv_no_stat": "N",

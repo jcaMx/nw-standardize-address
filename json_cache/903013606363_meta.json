@@ -1,13 +1,14 @@
 {
-  "row_index": 1368,
+  "row_index": 58,
   "sent_params": {
     "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
     "auth-token": "rOOG4cFXIaOANVasFnu7",
-    "street": "4936 W 98th St",
+    "street": "4936 1/2 W 98th St",
     "city": "Inglewood",
     "state": "CA",
-    "zipcode": "90301"
+    "zipcode": "90301",
+    "secondary": "nan"
   },
-  "timestamp": "2025-11-09T08:47:51.720455Z",
+  "timestamp": "2025-11-16T02:35:42.287058Z",
   "status_code": 200
 }

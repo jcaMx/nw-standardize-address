@@ -1,13 +1,14 @@
 {
-  "row_index": 3434,
+  "row_index": 211,
   "sent_params": {
     "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
     "auth-token": "rOOG4cFXIaOANVasFnu7",
-    "street": "2610 W Florence Ave",
+    "street": "2610 1/2 W Florence Ave",
     "city": "Los Angeles",
     "state": "CA",
-    "zipcode": "90043"
+    "zipcode": "90043",
+    "secondary": "nan"
   },
-  "timestamp": "2025-11-09T09:25:40.181733Z",
+  "timestamp": "2025-11-16T02:38:42.741765Z",
   "status_code": 200
 }

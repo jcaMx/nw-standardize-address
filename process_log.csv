@@ -7020,3 +7020,442 @@ timestamp,row_index,street,status,filename,http_code,error_message
 2025-11-09T10:13:10.691864Z,6017,3536 W Florence Ave,success,900435524369,200,
 2025-11-09T10:13:11.830345Z,6018,3974 W Florence Ave,invalid_json,row_6018,200,Empty or invalid JSON
 2025-11-09T10:13:12.467799Z,6019,5544 W Florence Ave,invalid_json,row_6019,200,Empty or invalid JSON
+2025-11-16T02:00:10.427068Z,0,1201 1/2 Myrtle Ave,pre_validation_fail,row_0,,Pre-validation rejected
+2025-11-16T02:00:10.443417Z,1,1201 3/4 Myrtle Ave,pre_validation_fail,row_1,,Pre-validation rejected
+2025-11-16T02:22:16.938372Z,0,1201 1/2 Myrtle Ave,success,903014277016,200,
+2025-11-16T02:22:18.437671Z,1,1201 3/4 Myrtle Ave,success,903014277016,200,
+2025-11-16T02:34:35.371205Z,0,1201 1/2 Myrtle Ave,success,903014277016,200,
+2025-11-16T02:34:36.953704Z,1,2 E Nutwood St,invalid_json,row_1,200,Empty or invalid JSON
+2025-11-16T02:34:37.964137Z,2,522 1/2 E Kelso St,success,903012847998,200,
+2025-11-16T02:34:39.521253Z,3,2 E La Palma Dr,invalid_json,row_3,200,Empty or invalid JSON
+2025-11-16T02:34:40.552550Z,4,835 E La Palma Dr,invalid_json,row_4,200,Empty or invalid JSON
+2025-11-16T02:34:41.571325Z,5,843 E La Palma Dr,invalid_json,row_5,200,Empty or invalid JSON
+2025-11-16T02:34:42.589222Z,6,921 E La Palma Dr,invalid_json,row_6,200,Empty or invalid JSON
+2025-11-16T02:34:43.655801Z,7,933 E La Palma Dr,invalid_json,row_7,200,Empty or invalid JSON
+2025-11-16T02:34:44.770721Z,8,162 E Tamarack Ave,invalid_json,row_8,200,Empty or invalid JSON
+2025-11-16T02:34:45.793959Z,9,126 E Arbor Vitae St,invalid_json,row_9,200,Empty or invalid JSON
+2025-11-16T02:34:46.813601Z,10,114 E Buckthorn St,invalid_json,row_10,200,Empty or invalid JSON
+2025-11-16T02:34:47.838980Z,11,924 E La Palma Dr,invalid_json,row_11,200,Empty or invalid JSON
+2025-11-16T02:34:48.856077Z,12,710 1/2 Larch St,success,903013414104,200,
+2025-11-16T02:34:50.380823Z,13,712 1/2 Larch St,success,903013414122,200,
+2025-11-16T02:34:51.911646Z,14,811 Java Ave,invalid_json,row_14,200,Empty or invalid JSON
+2025-11-16T02:34:52.924657Z,15,822 Java Ave,invalid_json,row_15,200,Empty or invalid JSON
+2025-11-16T02:34:53.997381Z,16,1003 Larch St,invalid_json,row_16,200,Empty or invalid JSON
+2025-11-16T02:34:55.195327Z,17,1040 S La Brea Ave,invalid_json,row_17,200,Empty or invalid JSON
+2025-11-16T02:34:56.217595Z,18,924 S Orchard Dr,invalid_json,row_18,200,Empty or invalid JSON
+2025-11-16T02:34:57.249604Z,19,939 Maple St,invalid_json,row_19,200,Empty or invalid JSON
+2025-11-16T02:34:58.256550Z,20,1014 S Grevillea Ave,invalid_json,row_20,200,Empty or invalid JSON
+2025-11-16T02:34:59.260053Z,21,112 E Hardy St,invalid_json,row_21,200,Empty or invalid JSON
+2025-11-16T02:35:00.239920Z,22,1110 Maple St,invalid_json,row_22,200,Empty or invalid JSON
+2025-11-16T02:35:01.240817Z,23,1111 Maple St,invalid_json,row_23,200,Empty or invalid JSON
+2025-11-16T02:35:02.256871Z,24,1217 1/2 Maple St,success,903013829177,200,
+2025-11-16T02:35:03.770329Z,25,1218 Maple St,invalid_json,row_25,200,Empty or invalid JSON
+2025-11-16T02:35:04.807420Z,26,148 W 98th St,invalid_json,row_26,200,Empty or invalid JSON
+2025-11-16T02:35:05.835312Z,27,923 S Fir Ave,invalid_json,row_27,200,Empty or invalid JSON
+2025-11-16T02:35:06.864446Z,28,925 S Fir Ave,invalid_json,row_28,200,Empty or invalid JSON
+2025-11-16T02:35:07.896005Z,29,929 S Fir Ave,invalid_json,row_29,200,Empty or invalid JSON
+2025-11-16T02:35:08.901180Z,30,931 S Fir Ave,invalid_json,row_30,200,Empty or invalid JSON
+2025-11-16T02:35:09.931461Z,31,933 S Fir Ave,invalid_json,row_31,200,Empty or invalid JSON
+2025-11-16T02:35:10.983532Z,32,939 S Fir Ave,invalid_json,row_32,200,Empty or invalid JSON
+2025-11-16T02:35:12.125480Z,33,945 S Fir Ave,invalid_json,row_33,200,Empty or invalid JSON
+2025-11-16T02:35:13.187386Z,34,279 W Hardy St,invalid_json,row_34,200,Empty or invalid JSON
+2025-11-16T02:35:14.227409Z,35,1144 S Eucalyptus Ave,invalid_json,row_35,200,Empty or invalid JSON
+2025-11-16T02:35:15.293764Z,36,1210 1/2 S Inglewood Ave,success,903013649104,200,
+2025-11-16T02:35:17.345949Z,37,905 S Eucalyptus Ave,invalid_json,row_37,200,Empty or invalid JSON
+2025-11-16T02:35:18.485760Z,38,304 W Arbor Vitae St,invalid_json,row_38,200,Empty or invalid JSON
+2025-11-16T02:35:19.718607Z,39,308 W Arbor Vitae St,invalid_json,row_39,200,Empty or invalid JSON
+2025-11-16T02:35:20.791330Z,40,312 W Arbor Vitae St,invalid_json,row_40,200,Empty or invalid JSON
+2025-11-16T02:35:21.841110Z,41,1016 1/2 S Inglewood Ave,success,903013647160,200,
+2025-11-16T02:35:23.335810Z,42,1018 1/2 S Inglewood Ave,success,903013647188,200,
+2025-11-16T02:35:24.856362Z,43,1020 1/2 S Inglewood Ave,success,903013647205,200,
+2025-11-16T02:35:26.440852Z,44,1024 1/2 S Inglewood Ave,success,903013647241,200,
+2025-11-16T02:35:28.088761Z,45,938 S Inglewood Ave,invalid_json,row_45,200,Empty or invalid JSON
+2025-11-16T02:35:29.124246Z,46,938 S Inglewood Ave,invalid_json,row_46,200,Empty or invalid JSON
+2025-11-16T02:35:30.193847Z,47,350 W Arbor Vitae St,invalid_json,row_47,200,Empty or invalid JSON
+2025-11-16T02:35:31.226752Z,48,345 W Hardy St,invalid_json,row_48,200,Empty or invalid JSON
+2025-11-16T02:35:32.275160Z,49,1091 S Inglewood Ave,invalid_json,row_49,200,Empty or invalid JSON
+2025-11-16T02:35:33.328802Z,50,919 S Inglewood Ave,invalid_json,row_50,200,Empty or invalid JSON
+2025-11-16T02:35:34.366924Z,51,933 S Inglewood Ave,invalid_json,row_51,200,Empty or invalid JSON
+2025-11-16T02:35:35.390073Z,52,6100 W 94th St,invalid_json,row_52,200,Empty or invalid JSON
+2025-11-16T02:35:36.429140Z,53,9530 1/2 Felton Ave,success,903013616308,200,
+2025-11-16T02:35:37.992797Z,54,9507 S Inglewood Ave,invalid_json,row_54,200,Empty or invalid JSON
+2025-11-16T02:35:39.074306Z,55,4853 1/2 W 98th St,success,903013603537,200,
+2025-11-16T02:35:40.662507Z,56,4901 1/2 W 98th St,success,903013605012,200,
+2025-11-16T02:35:42.285476Z,57,4913 W 98th St,invalid_json,row_57,200,Empty or invalid JSON
+2025-11-16T02:35:43.493956Z,58,4936 1/2 W 98th St,success,903013606363,200,
+2025-11-16T02:35:45.042496Z,59,4861 W 99th St,invalid_json,row_59,200,Empty or invalid JSON
+2025-11-16T02:35:46.101721Z,60,4903 1/2 W 99th St,success,903013611033,200,
+2025-11-16T02:35:47.854180Z,61,4913 1/2 W 99th St,success,903013611132,200,
+2025-11-16T02:35:49.495855Z,62,4969 W 99th St,invalid_json,row_62,200,Empty or invalid JSON
+2025-11-16T02:35:50.622613Z,63,4922 1/4 W 99th St,invalid_json,row_63,200,Empty or invalid JSON
+2025-11-16T02:35:52.007970Z,64,4940 1/2 W 99th St,success,903013612401,200,
+2025-11-16T02:35:53.648196Z,65,4823 W Century Blvd,invalid_json,row_65,200,Empty or invalid JSON
+2025-11-16T02:35:54.677903Z,66,520 Kenwood St,invalid_json,row_66,200,Empty or invalid JSON
+2025-11-16T02:35:55.742048Z,67,905 1/2 Kenwood St,success,903013124052,200,
+2025-11-16T02:35:57.323112Z,68,612 1/2 W Arbor Vitae St,success,903013106124,200,
+2025-11-16T02:35:58.981664Z,69,9610 1/2 Ocean Gate Ave,success,903013624101,200,
+2025-11-16T02:36:00.563288Z,70,9724 1/2 Ocean Gate Ave,success,903013626244,200,
+2025-11-16T02:36:02.098485Z,71,9521 1/2 Redfern Ave,invalid_json,row_71,200,Empty or invalid JSON
+2025-11-16T02:36:03.141202Z,72,9528 1/2 Redfern Ave,success,903013628288,200,
+2025-11-16T02:36:04.709127Z,73,9715 1/2 Redfern Ave,success,903013631158,200,
+2025-11-16T02:36:06.248601Z,74,9549 S Felton Ave,invalid_json,row_74,200,Empty or invalid JSON
+2025-11-16T02:36:07.288023Z,75,756 Grace Ave,invalid_json,row_75,200,Empty or invalid JSON
+2025-11-16T02:36:08.296547Z,76,202 N Locust St,invalid_json,row_76,200,Empty or invalid JSON
+2025-11-16T02:36:09.312166Z,77,448 N Osage Ave,invalid_json,row_77,200,Empty or invalid JSON
+2025-11-16T02:36:10.364694Z,78,335 S Prairie Ave,invalid_json,row_78,200,Empty or invalid JSON
+2025-11-16T02:36:11.412014Z,79,732 Sienna Wy,invalid_json,row_79,200,Empty or invalid JSON
+2025-11-16T02:36:12.473149Z,80,736 Sienna Wy,invalid_json,row_80,200,Empty or invalid JSON
+2025-11-16T02:36:13.501134Z,81,771 Sienna Wy,invalid_json,row_81,200,Empty or invalid JSON
+2025-11-16T02:36:14.522141Z,82,318 E Regent St,invalid_json,row_82,200,Empty or invalid JSON
+2025-11-16T02:36:15.504592Z,83,204 N La Brea Ave,invalid_json,row_83,200,Empty or invalid JSON
+2025-11-16T02:36:16.485224Z,84,208 N La Brea Ave,invalid_json,row_84,200,Empty or invalid JSON
+2025-11-16T02:36:17.490569Z,85,205 N Market St,invalid_json,row_85,200,Empty or invalid JSON
+2025-11-16T02:36:18.526248Z,86,213 N Market St,invalid_json,row_86,200,Empty or invalid JSON
+2025-11-16T02:36:19.597715Z,87,219 N Market St,invalid_json,row_87,200,Empty or invalid JSON
+2025-11-16T02:36:20.616383Z,88,221 N Market St,invalid_json,row_88,200,Empty or invalid JSON
+2025-11-16T02:36:21.675443Z,89,223 N Market St,invalid_json,row_89,200,Empty or invalid JSON
+2025-11-16T02:36:22.664264Z,90,237 N Market St,invalid_json,row_90,200,Empty or invalid JSON
+2025-11-16T02:36:23.708603Z,91,416 E Regent St,success,903011392011,200,
+2025-11-16T02:36:25.263023Z,92,662 1/2 Aerick St,success,903011903626,200,
+2025-11-16T02:36:26.787537Z,93,525 E Queen St,invalid_json,row_93,200,Empty or invalid JSON
+2025-11-16T02:36:27.808332Z,94,643 E Manchester Blvd,invalid_json,row_94,200,Empty or invalid JSON
+2025-11-16T02:36:28.807528Z,95,717 1/2 E Manchester Blvd,invalid_json,row_95,200,Empty or invalid JSON
+2025-11-16T02:36:29.914511Z,96,721 E Manchester Blvd,invalid_json,row_96,200,Empty or invalid JSON
+2025-11-16T02:36:30.931133Z,97,512 E Queen St,invalid_json,row_97,200,Empty or invalid JSON
+2025-11-16T02:36:31.973994Z,98,522 1/2 E Queen St,success,903011929222,200,
+2025-11-16T02:36:33.541129Z,99,620 1/2 E Queen St,success,903011931201,200,
+2025-11-16T02:36:35.165363Z,100,717 1/2 Manchester Dr,success,903011917171,200,
+2025-11-16T02:36:36.669850Z,101,521 Manchester Ter,invalid_json,row_101,200,Empty or invalid JSON
+2025-11-16T02:36:37.643005Z,102,524 Manchester Ter,invalid_json,row_102,200,Empty or invalid JSON
+2025-11-16T02:36:38.731649Z,103,617 Manchester Ter,invalid_json,row_103,200,Empty or invalid JSON
+2025-11-16T02:36:39.777389Z,104,617 1/2 Manchester Ter,invalid_json,row_104,200,Empty or invalid JSON
+2025-11-16T02:36:40.800864Z,105,617 3/4 Manchester Ter,success,903011921176,200,
+2025-11-16T02:36:42.413123Z,106,661 Manchester Ter,invalid_json,row_106,200,Empty or invalid JSON
+2025-11-16T02:36:43.446645Z,107,105 N Prairie Ave,invalid_json,row_107,200,Empty or invalid JSON
+2025-11-16T02:36:44.447305Z,108,101 S Prairie Ave,invalid_json,row_108,200,Empty or invalid JSON
+2025-11-16T02:36:45.487402Z,109,3446 W 79th Pl,invalid_json,row_109,200,Empty or invalid JSON
+2025-11-16T02:36:46.523081Z,110,3439 W 80th St,invalid_json,row_110,200,Empty or invalid JSON
+2025-11-16T02:36:47.654958Z,111,3522 W 80th St,invalid_json,row_111,200,Empty or invalid JSON
+2025-11-16T02:36:48.741776Z,112,3444 W 81St St,invalid_json,row_112,200,Empty or invalid JSON
+2025-11-16T02:36:49.796041Z,113,7871 Crenshaw Blvd,invalid_json,row_113,200,Empty or invalid JSON
+2025-11-16T02:36:50.897818Z,114,3412 W 78th Pl,invalid_json,row_114,200,Empty or invalid JSON
+2025-11-16T02:36:51.940056Z,115,3441 W 79th St,invalid_json,row_115,200,Empty or invalid JSON
+2025-11-16T02:36:52.973407Z,116,8209 1/2 Crenshaw Dr,success,903051622093,200,
+2025-11-16T02:36:54.509653Z,117,8255 1/2 Crenshaw Dr,success,903051631552,200,
+2025-11-16T02:36:56.012151Z,118,8259 1/2 Crenshaw Dr,success,903051631598,200,
+2025-11-16T02:36:57.541069Z,119,8263 1/2 Crenshaw Dr,success,903051631633,200,
+2025-11-16T02:36:59.121593Z,120,8311 1/2 Crenshaw Dr,success,903051624118,200,
+2025-11-16T02:37:00.691250Z,121,8407 1/2 Crenshaw Dr,success,903051648077,200,
+2025-11-16T02:37:02.320815Z,122,8409 1/2 Crenshaw Dr,success,903051648095,200,
+2025-11-16T02:37:03.830946Z,123,8413 1/2 Crenshaw Dr,success,903051653134,200,
+2025-11-16T02:37:05.617357Z,124,8417 1/2 Crenshaw Dr,success,903051652171,200,
+2025-11-16T02:37:07.136017Z,125,8421 1/2 Crenshaw Dr,success,903051625216,200,
+2025-11-16T02:37:08.698132Z,126,3404 1/2 W 83rd St,success,903051647041,200,
+2025-11-16T02:37:10.290189Z,127,3433 W 83rd St,invalid_json,row_127,200,Empty or invalid JSON
+2025-11-16T02:37:11.336615Z,128,3528 W 85th St,invalid_json,row_128,200,Empty or invalid JSON
+2025-11-16T02:37:12.418980Z,129,3540 W 85th St,invalid_json,row_129,200,Empty or invalid JSON
+2025-11-16T02:37:13.514457Z,130,8540 W Blvd,invalid_json,row_130,200,Empty or invalid JSON
+2025-11-16T02:37:14.553951Z,131,33733 W 83rd St,invalid_json,row_131,200,Empty or invalid JSON
+2025-11-16T02:37:15.605090Z,132,3225 W 84th Pl,invalid_json,row_132,200,Empty or invalid JSON
+2025-11-16T02:37:16.676466Z,133,3300 W 84th St,invalid_json,row_133,200,Empty or invalid JSON
+2025-11-16T02:37:17.718364Z,134,3300 W 85th St,invalid_json,row_134,200,Empty or invalid JSON
+2025-11-16T02:37:18.784312Z,135,3233 W Manchester Blvd,invalid_json,row_135,200,Empty or invalid JSON
+2025-11-16T02:37:19.975170Z,136,6717 1/2 10th Ave,success,900434713171,200,
+2025-11-16T02:37:21.618256Z,137,6717 1/4 10th Ave,success,900434713171,200,
+2025-11-16T02:37:23.148459Z,138,6717 3/4 10th Ave,success,900434713171,200,
+2025-11-16T02:37:24.730105Z,139,6805 1/2 10th Ave,success,900434766056,200,
+2025-11-16T02:37:26.303461Z,140,6805 1/4 10th Ave,success,900434766056,200,
+2025-11-16T02:37:27.805617Z,141,6809 10th Ave,invalid_json,row_141,200,Empty or invalid JSON
+2025-11-16T02:37:28.817680Z,142,6815 10th Ave,invalid_json,row_142,200,Empty or invalid JSON
+2025-11-16T02:37:29.812268Z,143,6901 1/2 10th Ave,invalid_json,row_143,200,Empty or invalid JSON
+2025-11-16T02:37:30.786853Z,144,6901 1/4 10th Ave,success,900434765011,200,
+2025-11-16T02:37:32.313872Z,145,6905 1/2 10th Ave,success,900434765057,200,
+2025-11-16T02:37:33.822799Z,146,7133 10th Ave,invalid_json,row_146,200,Empty or invalid JSON
+2025-11-16T02:37:34.847970Z,147,6719 11th Ave,invalid_json,row_147,200,Empty or invalid JSON
+2025-11-16T02:37:35.861186Z,148,6720 11th Ave,invalid_json,row_148,200,Empty or invalid JSON
+2025-11-16T02:37:36.914486Z,149,6723 11th Ave,invalid_json,row_149,200,Empty or invalid JSON
+2025-11-16T02:37:37.917502Z,150,6728 11th Ave,invalid_json,row_150,200,Empty or invalid JSON
+2025-11-16T02:37:38.965766Z,151,6828 1/2 11th Ave,success,900434771285,200,
+2025-11-16T02:37:40.488377Z,152,6828 1/4 11th Ave,success,900434771285,200,
+2025-11-16T02:37:42.057707Z,153,6838 11th Ave,invalid_json,row_153,200,Empty or invalid JSON
+2025-11-16T02:37:43.103862Z,154,7127 11th Ave,invalid_json,row_154,200,Empty or invalid JSON
+2025-11-16T02:37:44.153222Z,155,6801 8th Ave,invalid_json,row_155,200,Empty or invalid JSON
+2025-11-16T02:37:45.190732Z,156,7005 1/2 8th Ave,success,900434710057,200,
+2025-11-16T02:37:46.712863Z,157,7009 8th Ave,invalid_json,row_157,200,Empty or invalid JSON
+2025-11-16T02:37:47.768199Z,158,7101 8th Ave,invalid_json,row_158,200,Empty or invalid JSON
+2025-11-16T02:37:48.806695Z,159,6812 1/2 Crenshaw Blvd,success,900434690122,200,
+2025-11-16T02:37:50.349063Z,160,6812 1/4 Crenshaw Blvd,success,900434690122,200,
+2025-11-16T02:37:51.868115Z,161,6812 3/4 Crenshaw Blvd,success,900434690122,200,
+2025-11-16T02:37:53.379648Z,162,6836 Crenshaw Blvd,invalid_json,row_162,200,Empty or invalid JSON
+2025-11-16T02:37:54.390675Z,163,3106 W 68th St,invalid_json,row_163,200,Empty or invalid JSON
+2025-11-16T02:37:55.416205Z,164,6803 W 68th St,invalid_json,row_164,200,Empty or invalid JSON
+2025-11-16T02:37:56.447913Z,165,3116 W 69th St,invalid_json,row_165,200,Empty or invalid JSON
+2025-11-16T02:37:57.526404Z,166,3128 W 69th St,invalid_json,row_166,200,Empty or invalid JSON
+2025-11-16T02:37:58.552087Z,167,3302 W 71St St,invalid_json,row_167,200,Empty or invalid JSON
+2025-11-16T02:37:59.592157Z,168,3111 W Florence Ave,invalid_json,row_168,200,Empty or invalid JSON
+2025-11-16T02:38:00.613327Z,169,3115 W Florence Ave,invalid_json,row_169,200,Empty or invalid JSON
+2025-11-16T02:38:01.632551Z,170,3119 1/2 W Florence Ave,success,900434701192,200,
+2025-11-16T02:38:03.236321Z,171,3123 W Florence Ave,invalid_json,row_171,200,Empty or invalid JSON
+2025-11-16T02:38:04.261606Z,172,3137 W Florence Ave,invalid_json,row_172,200,Empty or invalid JSON
+2025-11-16T02:38:05.246502Z,173,3207 W Florence Ave,invalid_json,row_173,200,Empty or invalid JSON
+2025-11-16T02:38:06.259050Z,174,3225 W Florence Ave,invalid_json,row_174,200,Empty or invalid JSON
+2025-11-16T02:38:07.249199Z,175,7053 5th Ave,invalid_json,row_175,200,Empty or invalid JSON
+2025-11-16T02:38:08.246110Z,176,6763 6th Ave,invalid_json,row_176,200,Empty or invalid JSON
+2025-11-16T02:38:09.259662Z,177,6799 6th Ave,invalid_json,row_177,200,Empty or invalid JSON
+2025-11-16T02:38:10.280475Z,178,7006 6th Ave,invalid_json,row_178,200,Empty or invalid JSON
+2025-11-16T02:38:11.326052Z,179,7054 6th Ave,invalid_json,row_179,200,Empty or invalid JSON
+2025-11-16T02:38:12.378093Z,180,6725 7th Ave,invalid_json,row_180,200,Empty or invalid JSON
+2025-11-16T02:38:13.392941Z,181,7014 7th Ave,invalid_json,row_181,200,Empty or invalid JSON
+2025-11-16T02:38:14.389073Z,182,7018 8th Ave,invalid_json,row_182,200,Empty or invalid JSON
+2025-11-16T02:38:15.377661Z,183,7000 Madden Ave,invalid_json,row_183,200,Empty or invalid JSON
+2025-11-16T02:38:16.375100Z,184,7001 Madden Ave,invalid_json,row_184,200,Empty or invalid JSON
+2025-11-16T02:38:17.362865Z,185,7013 Madden Ave,invalid_json,row_185,200,Empty or invalid JSON
+2025-11-16T02:38:18.348439Z,186,7035 Madden Ave,invalid_json,row_186,200,Empty or invalid JSON
+2025-11-16T02:38:19.357714Z,187,2914 W 67th St,invalid_json,row_187,200,Empty or invalid JSON
+2025-11-16T02:38:20.359341Z,188,3008 W 67th St,invalid_json,row_188,200,Empty or invalid JSON
+2025-11-16T02:38:21.394268Z,189,6707 W 67th St,invalid_json,row_189,200,Empty or invalid JSON
+2025-11-16T02:38:22.424741Z,190,2901 W Florence Ave,invalid_json,row_190,200,Empty or invalid JSON
+2025-11-16T02:38:23.444747Z,191,2927 W Florence Ave,invalid_json,row_191,200,Empty or invalid JSON
+2025-11-16T02:38:24.469070Z,192,2967 W Florence Ave,invalid_json,row_192,200,Empty or invalid JSON
+2025-11-16T02:38:25.462985Z,193,3013 W Florence Ave,invalid_json,row_193,200,Empty or invalid JSON
+2025-11-16T02:38:26.446082Z,194,7323 5th Ave,invalid_json,row_194,200,Empty or invalid JSON
+2025-11-16T02:38:27.461516Z,195,7327 5th Ave,invalid_json,row_195,200,Empty or invalid JSON
+2025-11-16T02:38:28.446982Z,196,7214 7th Ave,invalid_json,row_196,200,Empty or invalid JSON
+2025-11-16T02:38:29.473443Z,197,7414 8th Ave,invalid_json,row_197,200,Empty or invalid JSON
+2025-11-16T02:38:30.494510Z,198,7514 8th Ave,invalid_json,row_198,200,Empty or invalid JSON
+2025-11-16T02:38:31.525205Z,199,2720 W 73rd St,invalid_json,row_199,200,Empty or invalid JSON
+2025-11-16T02:38:32.574350Z,200,2901 W 73rd St,invalid_json,row_200,200,Empty or invalid JSON
+2025-11-16T02:38:33.604331Z,201,2917 W 73rd St,invalid_json,row_201,200,Empty or invalid JSON
+2025-11-16T02:38:34.638251Z,202,3019 W 73rd St,invalid_json,row_202,200,Empty or invalid JSON
+2025-11-16T02:38:35.657967Z,203,2625 W 74th St,invalid_json,row_203,200,Empty or invalid JSON
+2025-11-16T02:38:36.657104Z,204,3005 W 74th St,invalid_json,row_204,200,Empty or invalid JSON
+2025-11-16T02:38:37.638524Z,205,3020 W 74th St,invalid_json,row_205,200,Empty or invalid JSON
+2025-11-16T02:38:38.625191Z,206,2909 W 75th St,invalid_json,row_206,200,Empty or invalid JSON
+2025-11-16T02:38:39.646081Z,207,2921 W 75th St,invalid_json,row_207,200,Empty or invalid JSON
+2025-11-16T02:38:40.670843Z,208,3015 W 76th St,invalid_json,row_208,200,Empty or invalid JSON
+2025-11-16T02:38:41.706958Z,209,2606 W Florence Ave,invalid_json,row_209,200,Empty or invalid JSON
+2025-11-16T02:38:42.740451Z,210,2607 W Florence Ave,invalid_json,row_210,200,Empty or invalid JSON
+2025-11-16T02:38:43.773811Z,211,2610 1/2 W Florence Ave,success,900435138106,200,
+2025-11-16T02:38:45.293517Z,212,2904 W Florence Ave,invalid_json,row_212,200,Empty or invalid JSON
+2025-11-16T02:38:46.277722Z,213,2908 W Florence Ave,invalid_json,row_213,200,Empty or invalid JSON
+2025-11-16T02:38:47.257869Z,214,2912 W Florence Ave,invalid_json,row_214,200,Empty or invalid JSON
+2025-11-16T02:38:48.259798Z,215,2914 1/2 W Florence Ave,success,900435111141,200,
+2025-11-16T02:38:49.746271Z,216,3010 W Florence Ave,invalid_json,row_216,200,Empty or invalid JSON
+2025-11-16T02:38:50.771421Z,217,7208 10th Ave,invalid_json,row_217,200,Empty or invalid JSON
+2025-11-16T02:38:51.808446Z,218,7215 10th Ave,invalid_json,row_218,200,Empty or invalid JSON
+2025-11-16T02:38:52.823462Z,219,7219 10th Ave,invalid_json,row_219,200,Empty or invalid JSON
+2025-11-16T02:38:53.829792Z,220,7223 10th Ave,invalid_json,row_220,200,Empty or invalid JSON
+2025-11-16T02:38:54.809422Z,221,7326 10th Ave,invalid_json,row_221,200,Empty or invalid JSON
+2025-11-16T02:38:55.793858Z,222,7411 10th Ave,invalid_json,row_222,200,Empty or invalid JSON
+2025-11-16T02:38:56.811239Z,223,7510 10th Ave,invalid_json,row_223,200,Empty or invalid JSON
+2025-11-16T02:38:57.816295Z,224,7229 8th Ave,invalid_json,row_224,200,Empty or invalid JSON
+2025-11-16T02:38:58.856204Z,225,7421 8th Ave,invalid_json,row_225,200,Empty or invalid JSON
+2025-11-16T02:38:59.865846Z,226,7203 9th Ave,invalid_json,row_226,200,Empty or invalid JSON
+2025-11-16T02:39:00.877351Z,227,7250 9th Ave,invalid_json,row_227,200,Empty or invalid JSON
+2025-11-16T02:39:01.897628Z,228,7314 9th Ave,invalid_json,row_228,200,Empty or invalid JSON
+2025-11-16T02:39:02.902504Z,229,7300 S Crenshaw Blvd,invalid_json,row_229,200,Empty or invalid JSON
+2025-11-16T02:39:03.912016Z,230,3212 W 73rd St,invalid_json,row_230,200,Empty or invalid JSON
+2025-11-16T02:39:04.902146Z,231,3215 W 73rd St,invalid_json,row_231,200,Empty or invalid JSON
+2025-11-16T02:39:05.892394Z,232,3222 W 73rd St,invalid_json,row_232,200,Empty or invalid JSON
+2025-11-16T02:39:06.890585Z,233,3225 W 73rd St,invalid_json,row_233,200,Empty or invalid JSON
+2025-11-16T02:39:07.888750Z,234,3227 W 73rd St,invalid_json,row_234,200,Empty or invalid JSON
+2025-11-16T02:39:08.923861Z,235,3228 W 73rd St,invalid_json,row_235,200,Empty or invalid JSON
+2025-11-16T02:39:09.958004Z,236,3304 W 73rd St,invalid_json,row_236,200,Empty or invalid JSON
+2025-11-16T02:39:10.959011Z,237,3314 W 73rd St,invalid_json,row_237,200,Empty or invalid JSON
+2025-11-16T02:39:11.978291Z,238,3323 W 73rd St,invalid_json,row_238,200,Empty or invalid JSON
+2025-11-16T02:39:12.983827Z,239,3117 W 74th St,invalid_json,row_239,200,Empty or invalid JSON
+2025-11-16T02:39:13.981207Z,240,3149 W 74th St,invalid_json,row_240,200,Empty or invalid JSON
+2025-11-16T02:39:14.994148Z,241,3156 W 74th St,invalid_json,row_241,200,Empty or invalid JSON
+2025-11-16T02:39:16.008044Z,242,3243 W 74th St,invalid_json,row_242,200,Empty or invalid JSON
+2025-11-16T02:39:17.044254Z,243,3324 W 74th St,invalid_json,row_243,200,Empty or invalid JSON
+2025-11-16T02:39:18.092204Z,244,3111 W 75th St,invalid_json,row_244,200,Empty or invalid JSON
+2025-11-16T02:39:19.112704Z,245,3161 W 75th St,invalid_json,row_245,200,Empty or invalid JSON
+2025-11-16T02:39:20.133043Z,246,3325 W 75th St,invalid_json,row_246,200,Empty or invalid JSON
+2025-11-16T02:39:21.146165Z,247,3116 W 76th St,invalid_json,row_247,200,Empty or invalid JSON
+2025-11-16T02:39:22.195080Z,248,3106 W Florence Ave,invalid_json,row_248,200,Empty or invalid JSON
+2025-11-16T02:39:23.292083Z,249,3130 W Florence Ave,invalid_json,row_249,200,Empty or invalid JSON
+2025-11-16T02:39:24.317846Z,250,3001 79th St,invalid_json,row_250,200,Empty or invalid JSON
+2025-11-16T02:39:25.331585Z,251,2605 S 5th Ave,invalid_json,row_251,200,Empty or invalid JSON
+2025-11-16T02:39:26.347101Z,252,3076 W 76th St,invalid_json,row_252,200,Empty or invalid JSON
+2025-11-16T02:39:27.352815Z,253,2903 1/2 W 77th St,invalid_json,row_253,200,Empty or invalid JSON
+2025-11-16T02:39:28.363735Z,254,3014 W 77th St,invalid_json,row_254,200,Empty or invalid JSON
+2025-11-16T02:39:29.385000Z,255,2601 W 78th St,invalid_json,row_255,200,Empty or invalid JSON
+2025-11-16T02:39:30.391671Z,256,2605 W 78th St,invalid_json,row_256,200,Empty or invalid JSON
+2025-11-16T02:39:31.426474Z,257,2610 W 78th St,success,903051016104,200,
+2025-11-16T02:39:32.957013Z,258,2710 W 78th St,success,903051018102,200,
+2025-11-16T02:39:34.444949Z,259,2723 W 78th St,success,903051017239,200,
+2025-11-16T02:39:36.023623Z,260,2729 W 78th St,success,903051017293,200,
+2025-11-16T02:39:37.616874Z,261,2907 W 78th St,success,903051019075,200,
+2025-11-16T02:39:39.194053Z,262,2601 W 79th St,invalid_json,row_262,200,Empty or invalid JSON
+2025-11-16T02:39:40.256321Z,263,3231 W 80th St,invalid_json,row_263,200,Empty or invalid JSON
+2025-11-16T02:39:41.335919Z,264,3339 W 80th St,invalid_json,row_264,200,Empty or invalid JSON
+2025-11-16T02:39:42.421163Z,265,7611 10th Ave,invalid_json,row_265,200,Empty or invalid JSON
+2025-11-16T02:39:43.515225Z,266,7703 8th Ave,invalid_json,row_266,200,Empty or invalid JSON
+2025-11-16T02:39:44.592010Z,267,7705 8th Ave,invalid_json,row_267,200,Empty or invalid JSON
+2025-11-16T02:39:45.684379Z,268,7709 8th Ave,invalid_json,row_268,200,Empty or invalid JSON
+2025-11-16T02:39:46.741729Z,269,7715 8th Ave,invalid_json,row_269,200,Empty or invalid JSON
+2025-11-16T02:39:47.811191Z,270,7719 8th Ave,invalid_json,row_270,200,Empty or invalid JSON
+2025-11-16T02:39:48.897367Z,271,7723 8th Ave,invalid_json,row_271,200,Empty or invalid JSON
+2025-11-16T02:39:49.955071Z,272,7725 8th Ave,invalid_json,row_272,200,Empty or invalid JSON
+2025-11-16T02:39:51.040502Z,273,7807 8th Ave,invalid_json,row_273,200,Empty or invalid JSON
+2025-11-16T02:39:52.122153Z,274,7821 8th Ave,invalid_json,row_274,200,Empty or invalid JSON
+2025-11-16T02:39:53.213835Z,275,7841 8th Ave,invalid_json,row_275,200,Empty or invalid JSON
+2025-11-16T02:39:54.277361Z,276,7851 8th Ave,invalid_json,row_276,200,Empty or invalid JSON
+2025-11-16T02:39:55.357204Z,277,7606 1/2 Crenshaw Blvd,success,900434947064,200,
+2025-11-16T02:39:56.921504Z,278,7606 1/4 Crenshaw Blvd,success,900434947064,200,
+2025-11-16T02:39:58.478183Z,279,7606 3/4 Crenshaw Blvd,success,900434947064,200,
+2025-11-16T02:40:00.052177Z,280,7616 1/2 Crenshaw Blvd,success,900434948162,200,
+2025-11-16T02:40:01.639998Z,281,7616 1/4 Crenshaw Blvd,success,900434948162,200,
+2025-11-16T02:40:03.234281Z,282,7616 3/4 Crenshaw Blvd,success,900434948162,200,
+2025-11-16T02:40:04.826280Z,283,7708 1/2 Crenshaw Blvd,success,900434949080,200,
+2025-11-16T02:40:06.418476Z,284,7708 1/4 Crenshaw Blvd,success,900434949080,200,
+2025-11-16T02:40:07.991215Z,285,7708 3/4 Crenshaw Blvd,success,900434949080,200,
+2025-11-16T02:40:09.594398Z,286,7716 1/2 Crenshaw Blvd,success,900434950169,200,
+2025-11-16T02:40:11.216947Z,287,7716 1/4 Crenshaw Blvd,success,900434950169,200,
+2025-11-16T02:40:12.845913Z,288,7716 3/4 Crenshaw Blvd,success,900434950169,200,
+2025-11-16T02:40:14.486341Z,289,3208 W 76th St,invalid_json,row_289,200,Empty or invalid JSON
+2025-11-16T02:40:15.612235Z,290,3316 1/2 W 76th St,success,900435236161,200,
+2025-11-16T02:40:17.207764Z,291,3316 1/4 W 76th St,success,900435236161,200,
+2025-11-16T02:40:18.821185Z,292,3316 3/4 W 76th St,success,900435236161,200,
+2025-11-16T02:40:20.394831Z,293,3320 1/2 W 76th St,success,900435235207,200,
+2025-11-16T02:40:21.979274Z,294,3320 1/4 W 76th St,success,900435235207,200,
+2025-11-16T02:40:23.555048Z,295,3320 3/4 W 76th St,success,900435235207,200,
+2025-11-16T02:40:25.121271Z,296,3203 W 77th St,invalid_json,row_296,200,Empty or invalid JSON
+2025-11-16T02:40:26.195878Z,297,3320 1/2 W 77th St,success,900435243208,200,
+2025-11-16T02:40:27.795625Z,298,3321 1/2 W 77th St,success,900435241219,200,
+2025-11-16T02:40:29.389995Z,299,3321 W 78th Pl,invalid_json,row_299,200,Empty or invalid JSON
+2025-11-16T02:40:30.462419Z,300,3108 W 78th St,invalid_json,row_300,200,Empty or invalid JSON
+2025-11-16T02:40:31.550915Z,301,3149 W 78th St,invalid_json,row_301,200,Empty or invalid JSON
+2025-11-16T02:40:32.618212Z,302,3317 1/2 W 78th St,success,900435245170,200,
+2025-11-16T02:40:34.206947Z,303,3317 1/4 W 78th St,success,900435245170,200,
+2025-11-16T02:40:35.794533Z,304,3317 3/4 W 78th St,success,900435245170,200,
+2025-11-16T02:40:37.383680Z,305,3321 1/2 W 78th St,success,900435246214,200,
+2025-11-16T02:40:38.980333Z,306,3321 1/4 W 78th St,success,900435246214,200,
+2025-11-16T02:40:40.577933Z,307,3321 3/4 W 78th St,success,900435246214,200,
+2025-11-16T02:40:42.184954Z,308,3213 W 79th St,invalid_json,row_308,200,Empty or invalid JSON
+2025-11-16T02:40:43.260874Z,309,3303 W 79th St,invalid_json,row_309,200,Empty or invalid JSON
+2025-11-16T02:40:44.335729Z,310,3 8th Ave,invalid_json,row_310,200,Empty or invalid JSON
+2025-11-16T02:40:45.409409Z,311,8098 Crenshaw Blvd,invalid_json,row_311,200,Empty or invalid JSON
+2025-11-16T02:40:46.488404Z,312,8080 S 10th Ave,invalid_json,row_312,200,Empty or invalid JSON
+2025-11-16T02:40:47.571442Z,313,3344 W 81St St,invalid_json,row_313,200,Empty or invalid JSON
+2025-11-16T02:40:48.681179Z,314,3348 W 81St St,invalid_json,row_314,200,Empty or invalid JSON
+2025-11-16T02:40:49.778465Z,315,311 W 82nd St,invalid_json,row_315,200,Empty or invalid JSON
+2025-11-16T02:40:50.868798Z,316,3203 W 82nd St,invalid_json,row_316,200,Empty or invalid JSON
+2025-11-16T02:40:51.935807Z,317,3026 W 79th St,invalid_json,row_317,200,Empty or invalid JSON
+2025-11-16T02:40:53.021083Z,318,2702 W 81St St,invalid_json,row_318,200,Empty or invalid JSON
+2025-11-16T02:40:54.098854Z,319,2820 7th Ave,invalid_json,row_319,200,Empty or invalid JSON
+2025-11-16T02:40:55.187940Z,320,8448 Crenshaw Blvd,invalid_json,row_320,200,Empty or invalid JSON
+2025-11-16T02:40:56.263926Z,321,8501 1/2 S 5th Ave,success,903051801012,200,
+2025-11-16T02:40:57.834216Z,322,8501 3/4 S 5th Ave,success,903051801012,200,
+2025-11-16T02:40:59.402024Z,323,2703 W 84th Pl,invalid_json,row_323,200,Empty or invalid JSON
+2025-11-16T02:41:00.469386Z,324,2913 W 84th St,invalid_json,row_324,200,Empty or invalid JSON
+2025-11-16T02:41:01.563778Z,325,2928 W 84th St,invalid_json,row_325,200,Empty or invalid JSON
+2025-11-16T02:41:02.675849Z,326,2706 1/2 W 85th St,success,903051862060,200,
+2025-11-16T02:41:04.261065Z,327,2806 1/2 W 85th St,success,903051824062,200,
+2025-11-16T02:41:05.875698Z,328,2814 1/2 W 85th St,success,903051824143,200,
+2025-11-16T02:41:07.445717Z,329,2818 1/2 W 85th St,success,903051824189,200,
+2025-11-16T02:41:09.020270Z,330,2524 S 5th Ave,invalid_json,row_330,200,Empty or invalid JSON
+2025-11-16T02:41:10.087996Z,331,2306 1/2 W 79th St,success,903051134068,200,
+2025-11-16T02:41:11.661569Z,332,2416 W 81St St,invalid_json,row_332,200,Empty or invalid JSON
+2025-11-16T02:41:12.741852Z,333,8006 1/2 S 2nd Ave,success,903051503068,200,
+2025-11-16T02:41:14.341577Z,334,8010 1/2 S 2nd Ave,success,903051503103,200,
+2025-11-16T02:41:15.932471Z,335,7925 S Van Ness Ave,invalid_json,row_335,200,Empty or invalid JSON
+2025-11-16T02:41:17.006476Z,336,8238 Maitland Ave,invalid_json,row_336,200,Empty or invalid JSON
+2025-11-16T02:41:18.082019Z,337,8315 Park Cir,invalid_json,row_337,200,Empty or invalid JSON
+2025-11-16T02:41:19.172620Z,338,8400 1/2 S 2nd Ave,success,903051511005,200,
+2025-11-16T02:41:20.728130Z,339,8402 1/2 S 2nd Ave,success,903051511023,200,
+2025-11-16T02:41:22.318206Z,340,8406 1/2 S 2nd Ave,success,903051511069,200,
+2025-11-16T02:41:23.917937Z,341,8406 3/4 S 2nd Ave,success,903051511069,200,
+2025-11-16T02:41:25.517065Z,342,8409 S 2nd Ave,invalid_json,row_342,200,Empty or invalid JSON
+2025-11-16T02:41:26.589468Z,343,8433 S 2nd Ave,invalid_json,row_343,200,Empty or invalid JSON
+2025-11-16T02:41:27.690111Z,344,8450 S 5th Ave,invalid_json,row_344,200,Empty or invalid JSON
+2025-11-16T02:41:28.764182Z,345,2517 W 84th Pl,invalid_json,row_345,200,Empty or invalid JSON
+2025-11-16T02:41:29.838572Z,346,0 W 85th St,invalid_json,row_346,200,Empty or invalid JSON
+2025-11-16T02:41:30.924164Z,347,2408 1/2 W 85th St,success,903051816089,200,
+2025-11-16T02:41:32.519569Z,348,2410 1/2 W 85th St,success,903051816106,200,
+2025-11-16T02:41:34.123598Z,349,2410 3/4 W 85th St,success,903051816106,200,
+2025-11-16T02:41:35.703046Z,350,2510 1/2 W 85th St,success,903051818104,200,
+2025-11-16T02:41:37.269751Z,351,2514 1/2 W 85th St,success,903051818140,200,
+2025-11-16T02:41:38.869349Z,352,2604 1/2 W 85th St,success,903051820048,200,
+2025-11-16T02:41:40.447607Z,353,8640 Crenshaw Blvd,invalid_json,row_353,200,Empty or invalid JSON
+2025-11-16T02:41:41.534163Z,354,8702 Crenshaw Blvd,invalid_json,row_354,200,Empty or invalid JSON
+2025-11-16T02:41:42.630766Z,355,8904 1/2 Crenshaw Blvd,success,903052337044,200,
+2025-11-16T02:41:44.220154Z,356,8615 1/2 S 5th Ave,success,903052401150,200,
+2025-11-16T02:41:45.793069Z,357,8717 S 8th Ave,invalid_json,row_357,200,Empty or invalid JSON
+2025-11-16T02:41:46.882051Z,358,8803 S 8th Ave,invalid_json,row_358,200,Empty or invalid JSON
+2025-11-16T02:41:47.964563Z,359,2908 1/2 W Manchester Blvd,success,903052439087,200,
+2025-11-16T02:41:49.556272Z,360,9221 S 8th Ave,invalid_json,row_360,200,Empty or invalid JSON
+2025-11-16T02:41:50.654376Z,361,8722 S 4th Ave,invalid_json,row_361,200,Empty or invalid JSON
+2025-11-16T02:41:51.769344Z,362,8616 1/2 S 5th Ave,success,903052402168,200,
+2025-11-16T02:41:53.337554Z,363,8616 1/4 S 5th Ave,success,903052402168,200,
+2025-11-16T02:41:54.916463Z,364,8616 3/4 S 5th Ave,success,903052402168,200,
+2025-11-16T02:41:56.497998Z,365,9216 S 2nd Ave,invalid_json,row_365,200,Empty or invalid JSON
+2025-11-16T02:41:57.589419Z,366,9226 S Van Ness Ave,invalid_json,row_366,200,Empty or invalid JSON
+2025-11-16T02:41:58.677836Z,367,7234 Brynhurst Ave,invalid_json,row_367,200,Empty or invalid JSON
+2025-11-16T02:41:59.785829Z,368,7236 Brynhurst Ave,invalid_json,row_368,200,Empty or invalid JSON
+2025-11-16T02:42:00.873493Z,369,7339 S Victoria Ave,invalid_json,row_369,200,Empty or invalid JSON
+2025-11-16T02:42:01.947575Z,370,7615 S Victoria Ave,invalid_json,row_370,200,Empty or invalid JSON
+2025-11-16T02:42:03.014616Z,371,3410 W 73rd St,invalid_json,row_371,200,Empty or invalid JSON
+2025-11-16T02:42:04.087584Z,372,3420 W 73rd St,invalid_json,row_372,200,Empty or invalid JSON
+2025-11-16T02:42:05.168536Z,373,3436 W 73rd St,invalid_json,row_373,200,Empty or invalid JSON
+2025-11-16T02:42:06.252835Z,374,3446 W 73rd St,invalid_json,row_374,200,Empty or invalid JSON
+2025-11-16T02:42:07.366248Z,375,3415 W 74th St,invalid_json,row_375,200,Empty or invalid JSON
+2025-11-16T02:42:08.437611Z,376,3437 W 74th St,invalid_json,row_376,200,Empty or invalid JSON
+2025-11-16T02:42:09.512734Z,377,3428 W 75th St,invalid_json,row_377,200,Empty or invalid JSON
+2025-11-16T02:42:10.598687Z,378,3457 W 75th St,invalid_json,row_378,200,Empty or invalid JSON
+2025-11-16T02:42:11.675885Z,379,3455 W 77th St,invalid_json,row_379,200,Empty or invalid JSON
+2025-11-16T02:42:12.753938Z,380,3455 W 78th St,invalid_json,row_380,200,Empty or invalid JSON
+2025-11-16T02:42:13.844586Z,381,3414 W Florence Ave,invalid_json,row_381,200,Empty or invalid JSON
+2025-11-16T02:42:14.964555Z,382,3436 1/2 W Florence Ave,success,900435518366,200,
+2025-11-16T02:42:16.533109Z,383,3512 W Florence Ave,invalid_json,row_383,200,Empty or invalid JSON
+2025-11-16T02:42:17.600634Z,384,3974 W Florence Ave,invalid_json,row_384,200,Empty or invalid JSON
+2025-11-16T02:42:18.708490Z,385,5544 W Florence Ave,invalid_json,row_385,200,Empty or invalid JSON
+2025-11-16T02:42:19.786738Z,386,3719 Armitage Ave,invalid_json,row_386,200,Empty or invalid JSON
+2025-11-16T02:42:20.889940Z,387,3734 Armitage Ave,invalid_json,row_387,200,Empty or invalid JSON
+2025-11-16T02:42:21.984482Z,388,8718 Beckenham Ln,invalid_json,row_388,200,Empty or invalid JSON
+2025-11-16T02:42:23.089672Z,389,8704 Carlton Dr,invalid_json,row_389,200,Empty or invalid JSON
+2025-11-16T02:42:24.179746Z,390,8708 Carlton Dr,invalid_json,row_390,200,Empty or invalid JSON
+2025-11-16T02:42:25.268068Z,391,8712 Carlton Dr,invalid_json,row_391,200,Empty or invalid JSON
+2025-11-16T02:42:26.335622Z,392,8716 Carlton Dr,invalid_json,row_392,200,Empty or invalid JSON
+2025-11-16T02:42:27.407973Z,393,8748 Carlton Dr,invalid_json,row_393,200,Empty or invalid JSON
+2025-11-16T02:42:28.483698Z,394,8752 Carlton Dr,invalid_json,row_394,200,Empty or invalid JSON
+2025-11-16T02:42:29.557811Z,395,9311 Crenshaw Blvd,invalid_json,row_395,200,Empty or invalid JSON
+2025-11-16T02:42:30.668981Z,396,8609 Crenshaw Blvd,invalid_json,row_396,200,Empty or invalid JSON
+2025-11-16T02:42:31.761659Z,397,8723 Crenshaw Blvd,invalid_json,row_397,200,Empty or invalid JSON
+2025-11-16T02:42:32.868870Z,398,8712 Dartford Pl,invalid_json,row_398,200,Empty or invalid JSON
+2025-11-16T02:42:33.932863Z,399,8716 Dartford Pl,invalid_json,row_399,200,Empty or invalid JSON
+2025-11-16T02:42:35.007968Z,400,8720 Dartford Pl,invalid_json,row_400,200,Empty or invalid JSON
+2025-11-16T02:42:36.115339Z,401,8792 Dartford Pl,invalid_json,row_401,200,Empty or invalid JSON
+2025-11-16T02:42:37.176722Z,402,8828 Dartford Pl,invalid_json,row_402,200,Empty or invalid JSON
+2025-11-16T02:42:38.268486Z,403,8832 Dartford Pl,invalid_json,row_403,200,Empty or invalid JSON
+2025-11-16T02:42:39.340184Z,404,8836 Dartford Pl,invalid_json,row_404,200,Empty or invalid JSON
+2025-11-16T02:42:40.432611Z,405,3701 Farnham Ln,invalid_json,row_405,200,Empty or invalid JSON
+2025-11-16T02:42:41.510831Z,406,8818 Glendover Wy,invalid_json,row_406,200,Empty or invalid JSON
+2025-11-16T02:42:42.600794Z,407,3600 Kensley Dr,invalid_json,row_407,200,Empty or invalid JSON
+2025-11-16T02:42:43.669312Z,408,3602 Kensley Dr,invalid_json,row_408,200,Empty or invalid JSON
+2025-11-16T02:42:44.736732Z,409,3660 Kensley Dr,invalid_json,row_409,200,Empty or invalid JSON
+2025-11-16T02:42:45.834508Z,410,3664 Kensley Dr,invalid_json,row_410,200,Empty or invalid JSON
+2025-11-16T02:42:46.922348Z,411,3668 Kensley Dr,invalid_json,row_411,200,Empty or invalid JSON
+2025-11-16T02:42:48.023823Z,412,3672 Kensley Dr,invalid_json,row_412,200,Empty or invalid JSON
+2025-11-16T02:42:49.094509Z,413,3676 Kensley Dr,invalid_json,row_413,200,Empty or invalid JSON
+2025-11-16T02:42:50.201584Z,414,3684 Kensley Dr,invalid_json,row_414,200,Empty or invalid JSON
+2025-11-16T02:42:51.299374Z,415,3116 Manchester Blvd,invalid_json,row_415,200,Empty or invalid JSON
+2025-11-16T02:42:52.412271Z,416,3136 Manchester Blvd,invalid_json,row_416,200,Empty or invalid JSON
+2025-11-16T02:42:53.514012Z,417,3218 Manchester Blvd,invalid_json,row_417,200,Empty or invalid JSON
+2025-11-16T02:42:54.597911Z,418,3306 Manchester Blvd,invalid_json,row_418,200,Empty or invalid JSON
+2025-11-16T02:42:55.696137Z,419,8721 Penridge Pl,invalid_json,row_419,200,Empty or invalid JSON
+2025-11-16T02:42:56.772692Z,420,8728 Penridge Pl,invalid_json,row_420,200,Empty or invalid JSON
+2025-11-16T02:42:57.952536Z,421,8753 Penridge Pl,invalid_json,row_421,200,Empty or invalid JSON
+2025-11-16T02:42:59.057744Z,422,3621 Summerset Pl,invalid_json,row_422,200,Empty or invalid JSON
+2025-11-16T02:43:00.144760Z,423,3625 Summerset Pl,invalid_json,row_423,200,Empty or invalid JSON
+2025-11-16T02:43:01.236953Z,424,9616 S 10th Ave,invalid_json,row_424,200,Empty or invalid JSON
+2025-11-16T02:43:02.320397Z,425,9629 S Crenshaw Blvd,invalid_json,row_425,200,Empty or invalid JSON
+2025-11-16T02:43:03.392655Z,426,3101 W Arbor Vitae St,invalid_json,row_426,200,Empty or invalid JSON
+2025-11-16T02:43:04.505757Z,427,3231 W Arbor Vitae St,invalid_json,row_427,200,Empty or invalid JSON
+2025-11-16T02:43:05.606446Z,428,3116 W Manchester Blvd,invalid_json,row_428,200,Empty or invalid JSON
+2025-11-16T02:43:06.673934Z,429,3136 W Manchester Blvd,invalid_json,row_429,200,Empty or invalid JSON
+2025-11-16T02:43:07.749079Z,430,3218 W Manchester Blvd,invalid_json,row_430,200,Empty or invalid JSON
+2025-11-16T02:43:08.835112Z,431,3306 W Manchester Blvd,invalid_json,row_431,200,Empty or invalid JSON
+2025-11-16T02:43:09.921593Z,432,3424 W Manchester Blvd,invalid_json,row_432,200,Empty or invalid JSON
+2025-11-16T03:10:55.657016Z,0,2 E Nutwood St,invalid_json,row_0,200,Empty or invalid JSON
+2025-11-16T03:10:56.702347Z,1,2 E La Palma Dr,invalid_json,row_1,200,Empty or invalid JSON

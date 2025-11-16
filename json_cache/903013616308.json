@@ -2,11 +2,11 @@
   {
     "input_index": 0,
     "candidate_index": 0,
-    "delivery_line_1": "9530 Felton Ave",
+    "delivery_line_1": "9530 1/2 Felton Ave",
     "last_line": "Inglewood CA 90301-3616",
     "delivery_point_barcode": "903013616308",
     "components": {
-      "primary_number": "9530",
+      "primary_number": "9530 1/2",
       "street_name": "Felton",
       "street_suffix": "Ave",
       "city_name": "Inglewood",

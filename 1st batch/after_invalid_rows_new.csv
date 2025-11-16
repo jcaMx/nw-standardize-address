@@ -1,0 +1,321 @@
+TerritoryID,TerritoryNumber,CategoryCode,Category,TerritoryAddressID,ApartmentNumber,Number,Street,Suburb,PostalCode,State,Name,Phone,Type,Status,NotHomeAttempt,Date1,Date2,Date3,Date4,Date5,Language,Latitude,Longitude,Notes,NotesFromPublisher,Process Notes,original_cache_file,moved_timestamp,_status,_reason,NeedsReview
+760882.0,27,Unknown,Unknown,4880028.0,,2,E Nutwood St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9590119,-118.3485751,,,,,,ok,empty_or_invalid_json,True
+549915.0,28,Unknown,Unknown,4295828.0,,2,E La Palma Dr,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9557704,-118.3506543,,,,,,ok,empty_or_invalid_json,True
+549915.0,28,Unknown,Unknown,2238147.0,,835,E La Palma Dr,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9553682,-118.3498559,,,,,,ok,empty_or_invalid_json,True
+549915.0,28,Unknown,Unknown,8638395.0,,843,E La Palma Dr,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9553685,-118.3498451,,,,,,ok,empty_or_invalid_json,True
+549915.0,28,Unknown,Unknown,7893101.0,,921,E La Palma Dr,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9553881,-118.3490981,,,,,,ok,empty_or_invalid_json,True
+549915.0,28,Unknown,Unknown,3974568.0,,933,E La Palma Dr,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9553891,-118.3490265,,,,,,ok,empty_or_invalid_json,True
+540184.0,29,Unknown,Unknown,9008114.0,,162,E Tamarack Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9555548,-118.3513818,,,,,,ok,empty_or_invalid_json,True
+278155.0,30,Unknown,Unknown,8201058.0,,126,E Arbor Vitae St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.95278,-118.353793,,,,,,ok,empty_or_invalid_json,True
+278155.0,30,Unknown,Unknown,6010982.0,,114,E Buckthorn St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9539871,-118.354223,,,,,,ok,empty_or_invalid_json,True
+278155.0,30,Unknown,Unknown,9443898.0,,924,E La Palma Dr,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9552236,-118.3490605,,,,,,ok,empty_or_invalid_json,True
+288694.0,31,Unknown,Unknown,8919182.0,,811,Java Ave,Inglewood,90301.0,CA,,,House,Home,0.0,2025/06/05,,,,,,33.9538543,-118.3514546,,,,,,ok,empty_or_invalid_json,True
+288694.0,31,Unknown,Unknown,5052715.0,,822,Java Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9537162,-118.3512546,,,,,,ok,empty_or_invalid_json,True
+780474.0,32,Unknown,Unknown,2622432.0,,1003,Larch St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9510217,-118.3509071,,,,,,ok,empty_or_invalid_json,True
+780474.0,32,Unknown,Unknown,3036971.0,,1040,S La Brea Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9500582,-118.3524409,,,,,,ok,empty_or_invalid_json,True
+780474.0,32,Unknown,Unknown,5281268.0,,924,S Orchard Dr,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.952698,-118.351645,,,,,,ok,empty_or_invalid_json,True
+822620.0,33,Unknown,Unknown,7867190.0,,939,Maple St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9516324,-118.3538781,,,,,,ok,empty_or_invalid_json,True
+822620.0,33,Unknown,Unknown,8469919.0,,1014,S Grevillea Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.950544,-118.3548399,,,,,,ok,empty_or_invalid_json,True
+669178.0,34,Unknown,Unknown,9816076.0,,112,E Hardy St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.949,-118.354487,,,,,,ok,empty_or_invalid_json,True
+669178.0,34,Unknown,Unknown,8787514.0,,1110,Maple St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9488023,-118.3536581,,,,,,ok,empty_or_invalid_json,True
+669178.0,34,Unknown,Unknown,1112679.0,,1111,Maple St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9488016,-118.3538553,,,,,,ok,empty_or_invalid_json,True
+669178.0,34,Unknown,Unknown,7586710.0,,1218,Maple St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9468672,-118.3536675,,,,,,ok,empty_or_invalid_json,True
+669178.0,34,Unknown,Unknown,8479444.0,,148,W 98th St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9471955,-118.3554207,,,,,,ok,empty_or_invalid_json,True
+785270.0,37,Unknown,Unknown,1939150.0,,923,S Fir Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9522275,-118.3570058,,,,,,ok,empty_or_invalid_json,True
+785270.0,37,Unknown,Unknown,7918334.0,,925,S Fir Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9521954,-118.357005,,,,,,ok,empty_or_invalid_json,True
+785270.0,37,Unknown,Unknown,6986955.0,,929,S Fir Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9521311,-118.3570035,,,,,,ok,empty_or_invalid_json,True
+785270.0,37,Unknown,Unknown,3432544.0,,931,S Fir Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9520989,-118.3570028,,,,,,ok,empty_or_invalid_json,True
+785270.0,37,Unknown,Unknown,8343183.0,,933,S Fir Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9520668,-118.357002,,,,,,ok,empty_or_invalid_json,True
+785270.0,37,Unknown,Unknown,2368012.0,,939,S Fir Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9519704,-118.3569998,,,,,,ok,empty_or_invalid_json,True
+785270.0,37,Unknown,Unknown,3034165.0,,945,S Fir Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.951874,-118.3569976,,,,,,ok,empty_or_invalid_json,True
+222245.0,38,Unknown,Unknown,4252219.0,,279,W Hardy St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9491581,-118.3587224,,,,,,ok,empty_or_invalid_json,True
+171827.0,39,Unknown,Unknown,3546207.0,,1144,S Eucalyptus Ave,Inglewood,90301.0,CA,,,House,DoNotCall,0.0,,,,,,,33.948222,-118.3589858,,,,,,ok,empty_or_invalid_json,True
+994894.0,40,Unknown,Unknown,6770015.0,,905,S Eucalyptus Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.952476,-118.359286,,,,,,auto_fixed,empty_or_invalid_json,True
+994894.0,40,Unknown,Unknown,3856306.0,,304,W Arbor Vitae St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.952476,-118.359429,,,,,,auto_fixed,empty_or_invalid_json,True
+994894.0,40,Unknown,Unknown,1741883.0,,308,W Arbor Vitae St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9524761,-118.3595775,,,,,,auto_fixed,empty_or_invalid_json,True
+994894.0,40,Unknown,Unknown,2486584.0,,312,W Arbor Vitae St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.952476,-118.359726,,,,,,auto_fixed,empty_or_invalid_json,True
+604395.0,41,Unknown,Unknown,2365623.0,,938,S Inglewood Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.951498,-118.361234,,,,,,ok,empty_or_invalid_json,True
+604395.0,41,Unknown,Unknown,5466648.0,,938,S Inglewood Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.951088,-118.360946,,,,,,auto_fixed,empty_or_invalid_json,True
+604395.0,41,Unknown,Unknown,5053035.0,,350,W Arbor Vitae St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.95335,-118.3301634,,,,,,ok,empty_or_invalid_json,True
+604395.0,41,Unknown,Unknown,5866387.0,,345,W Hardy St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9491517,-118.3605383,,,,,,ok,empty_or_invalid_json,True
+681761.0,42,Unknown,Unknown,7932442.0,,1091,S Inglewood Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9492002,-118.361231,,,,,,ok,empty_or_invalid_json,True
+681761.0,42,Unknown,Unknown,9699839.0,,919,S Inglewood Ave,Inglewood,90301.0,CA,,,House,Home,0.0,2024/10/02,,,,,,33.9622501,-118.3617352,,a and b A was home B was not,,,,ok,empty_or_invalid_json,True
+681761.0,42,Unknown,Unknown,8037301.0,,933,S Inglewood Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9622501,-118.3617352,,,,,,ok,empty_or_invalid_json,True
+681761.0,42,Unknown,Unknown,1666876.0,,6100,W 94th St,Los Angeles,90045.0,CA,,,House,Available,0.0,,,,,,,33.9542965,-118.4136122,,address not in this territory,,,,ok,empty_or_invalid_json,True
+114595.0,43,Unknown,Unknown,9056651.0,,9507,S Inglewood Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9499956,-118.3614252,,,,,,ok,empty_or_invalid_json,True
+114595.0,43,Unknown,Unknown,5500882.0,,4913,W 98th St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9473874,-118.3640717,,,,,,ok,empty_or_invalid_json,True
+366434.0,44,Unknown,Unknown,3234444.0,,4861,W 99th St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9463912,-118.3643114,,,,,,ok,empty_or_invalid_json,True
+366434.0,44,Unknown,Unknown,5659984.0,,4969,W 99th St,Inglewood,90301.0,CA,,,House,NotHome,1.0,2025/01/15,,,,,,33.9463912,-118.3643114,,,,,,ok,empty_or_invalid_json,True
+660550.0,45,Unknown,Unknown,4320348.0,Unit,492214,W 99th St,Inglewood,90301.0,CA,,,Apartment,Custom1,0.0,2025/02/15,,,,,,33.9462968,-118.3635262,,,,,,ok,empty_or_invalid_json,True
+660550.0,45,Unknown,Unknown,4179703.0,,4823,W Century Blvd,Inglewood,90304.0,CA,,,House,Available,0.0,,,,,,,33.9455151,-118.3620962,,,,,,ok,empty_or_invalid_json,True
+821256.0,47,Unknown,Unknown,7210469.0,,520,Kenwood St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9522519,-118.3667859,,,,,,ok,empty_or_invalid_json,True
+841750.0,48,Unknown,Unknown,7306458.0,,952112,Redfern Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.950236,-118.366659,,,,,,ok,empty_or_invalid_json,True
+841750.0,48,Unknown,Unknown,8119166.0,,9549,S Felton Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9496803,-118.3657218,,,,,,ok,empty_or_invalid_json,True
+465156.0,49,Unknown,Unknown,3052239.0,,756,Grace Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9683845,-118.3452494,,,,,,ok,empty_or_invalid_json,True
+465156.0,49,Unknown,Unknown,3258576.0,,202,N Locust St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9646392,-118.3502976,,,,,,ok,empty_or_invalid_json,True
+465156.0,49,Unknown,Unknown,2495103.0,,448,N Osage Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9700446,-118.3449683,,,,,,ok,empty_or_invalid_json,True
+465156.0,49,Unknown,Unknown,9624020.0,,335,S Prairie Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9597933,-118.343971,,,,,,ok,empty_or_invalid_json,True
+465156.0,49,Unknown,Unknown,7140842.0,,732,Sienna Wy,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.956526,-118.358654,,,,,,ok,empty_or_invalid_json,True
+465156.0,49,Unknown,Unknown,6427097.0,,736,Sienna Wy,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.956526,-118.358654,,,,,,ok,empty_or_invalid_json,True
+465156.0,49,Unknown,Unknown,7117693.0,,771,Sienna Wy,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.956526,-118.358654,,,,,,ok,empty_or_invalid_json,True
+520602.0,50,Unknown,Unknown,3325969.0,,318,E Regent St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9643882,-118.3515951,,,,,,ok,empty_or_invalid_json,True
+520602.0,50,Unknown,Unknown,3496538.0,,204,N La Brea Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9645907,-118.3532585,,,,,,ok,empty_or_invalid_json,True
+520602.0,50,Unknown,Unknown,7727380.0,,208,N La Brea Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9646195,-118.353259,,,,,,ok,empty_or_invalid_json,True
+520602.0,50,Unknown,Unknown,7100103.0,,205,N Market St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9646612,-118.3518204,,,,,,ok,empty_or_invalid_json,True
+520602.0,50,Unknown,Unknown,4228554.0,,213,N Market St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9647735,-118.3518212,,,,,,ok,empty_or_invalid_json,True
+520602.0,50,Unknown,Unknown,9274455.0,,219,N Market St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9648577,-118.3518217,,,,,,ok,empty_or_invalid_json,True
+520602.0,50,Unknown,Unknown,4920162.0,,221,N Market St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9648858,-118.3518219,,,,,,ok,empty_or_invalid_json,True
+520602.0,50,Unknown,Unknown,9804966.0,,223,N Market St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9649139,-118.3518226,,,,,,ok,empty_or_invalid_json,True
+520602.0,50,Unknown,Unknown,8384457.0,,237,N Market St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9651099,-118.3518368,,,,,,ok,empty_or_invalid_json,True
+291807.0,53,Unknown,Unknown,5346089.0,,525,E Queen St,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9627188,-118.348151,,,,,,ok,empty_or_invalid_json,True
+923657.0,54,Unknown,Unknown,1695972.0,,643,E Manchester Blvd,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9602719,-118.3468695,,,,,,ok,empty_or_invalid_json,True
+923657.0,54,Unknown,Unknown,3915186.0,,71712,E Manchester Blvd,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9616228,-118.3611939,,,,,,ok,empty_or_invalid_json,True
+923657.0,54,Unknown,Unknown,4633700.0,,721,E Manchester Blvd,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.959862,-118.3458124,,,,,,ok,empty_or_invalid_json,True
+923657.0,54,Unknown,Unknown,2635562.0,Apt 1,512,E Queen St,Inglewood,90301.0,CA,,,Apartment,Available,0.0,,,,,,,33.9625565,-118.347945,,,,,,ok,empty_or_invalid_json,True
+923657.0,54,Unknown,Unknown,2572693.0,,521,Manchester Ter,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.96173,-118.347775,,,,,,ok,empty_or_invalid_json,True
+923657.0,54,Unknown,Unknown,8406921.0,,524,Manchester Ter,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9615744,-118.3471739,,,,,,ok,empty_or_invalid_json,True
+923657.0,54,Unknown,Unknown,6909524.0,Unit,617,Manchester Ter,Inglewood,90301.0,CA,,,Apartment,NotHome,1.0,2025/04/25,,,,,,33.961756,-118.34599,,,,,,ok,empty_or_invalid_json,True
+923657.0,54,Unknown,Unknown,1466150.0,Unit,61712,Manchester Ter,Inglewood,90301.0,CA,,,Apartment,Home,0.0,2025/04/25,,,,,,33.961756,-118.34599,,,,,,ok,empty_or_invalid_json,True
+923657.0,54,Unknown,Unknown,8880581.0,,661,Manchester Ter,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9617617,-118.3453249,,,,,,ok,empty_or_invalid_json,True
+923657.0,54,Unknown,Unknown,3216553.0,,105,N Prairie Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9629358,-118.3440375,,,,,,ok,empty_or_invalid_json,True
+923657.0,54,Unknown,Unknown,5672757.0,,101,S Prairie Ave,Inglewood,90301.0,CA,,,House,Available,0.0,,,,,,,33.9597933,-118.343971,,,,,,ok,empty_or_invalid_json,True
+565020.0,56,Unknown,Unknown,1845195.0,,3446,W 79th Pl,Inglewood,90305.0,CA,,,House,DoNotCall,0.0,,,,,,,,,,,,,,ok,empty_or_invalid_json,True
+565020.0,56,Unknown,Unknown,5211754.0,,3439,W 80th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.966442,-118.3320408,,,,,,ok,empty_or_invalid_json,True
+565020.0,56,Unknown,Unknown,2854788.0,,3522,W 80th St,Inglewood,90305.0,CA,,,House,DoNotCall,0.0,,,,,,,,,,,,,,ok,empty_or_invalid_json,True
+565020.0,56,Unknown,Unknown,2619039.0,,3444,W 81St St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9653605,-118.3320388,,,,,,ok,empty_or_invalid_json,True
+565020.0,56,Unknown,Unknown,4232590.0,Apt 1,7871,Crenshaw Blvd,Los Angeles,,Unknown,,,Apartment,NotHome,1.0,2025/05/01,,,,,,,,,,,,,ok,empty_or_invalid_json,True
+565020.0,56,Unknown,Unknown,3040120.0,,3412,W 78th Pl,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9680234,-118.3312251,,,,,,ok,empty_or_invalid_json,True
+565020.0,56,Unknown,Unknown,5721575.0,,3441,W 79th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9673339,-118.3319823,,,,,,ok,empty_or_invalid_json,True
+801960.0,57,Unknown,Unknown,8685725.0,,3433,W 83rd St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9628045,-118.331839,,,,,,ok,empty_or_invalid_json,True
+801960.0,57,Unknown,Unknown,6789559.0,,3528,W 85th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9607918,-118.3338426,,,,,,ok,empty_or_invalid_json,True
+801960.0,57,Unknown,Unknown,1829424.0,,3540,W 85th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9607927,-118.334034,,,,,,ok,empty_or_invalid_json,True
+801960.0,57,Unknown,Unknown,1317033.0,,8540,W Blvd,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9605187,-118.3350154,,,,,,ok,empty_or_invalid_json,True
+989214.0,58,Unknown,Unknown,7035607.0,,33733,W 83rd St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9627701,-118.3307785,,,,,,ok,empty_or_invalid_json,True
+989214.0,58,Unknown,Unknown,4238776.0,,3225,W 84th Pl,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9618285,-118.3280065,,,,,,ok,empty_or_invalid_json,True
+989214.0,58,Unknown,Unknown,2113822.0,,3300,W 84th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.962753,-118.329018,,,,,,ok,empty_or_invalid_json,True
+989214.0,58,Unknown,Unknown,7078058.0,,3300,W 85th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.960811,-118.328879,,,,,,ok,empty_or_invalid_json,True
+989214.0,58,Unknown,Unknown,4528135.0,,3233,W Manchester Blvd,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.960139,-118.3265147,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,1512788.0,,6809,10th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9767193,-118.3280496,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,4346434.0,,6815,10th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9766832,-118.3280498,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,2400703.0,Unit,690112,10th Ave,Los Angeles,90043.0,CA,,,Apartment,Available,0.0,,,,,,,33.976228,-118.3280528,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,2029553.0,,7133,10th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9752714,-118.3280586,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,1373525.0,,6719,11th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9959403,-118.3294089,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,8566781.0,,6720,11th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,34.0053225,-118.3296131,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,8433048.0,,6723,11th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9801472,-118.3293982,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,4259941.0,,6728,11th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,34.0053225,-118.3296131,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,5372421.0,,6838,11th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,34.0053225,-118.3296131,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,1851840.0,,7127,11th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9753134,-118.3295003,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,5788433.0,,6801,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,8867965.0,,7009,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,34.0055105,-118.325844,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,2627250.0,,7101,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,7737280.0,,6836,Crenshaw Blvd,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9773574,-118.330769,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,2197139.0,,3106,W 68th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9772634,-118.326724,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,6045539.0,,6803,W 68th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.977358,-118.3265297,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,1167286.0,,3116,W 69th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9764375,-118.3268474,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,7169172.0,,3128,W 69th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9764364,-118.3269873,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,1974355.0,,3302,W 71St St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9755928,-118.3295711,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,1077623.0,,3111,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9746315,-118.3269728,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,3901238.0,,3115,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9746305,-118.3270912,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,6057807.0,,3123,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9746285,-118.3273278,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,9292279.0,,3137,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.974626,-118.327697,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,1801602.0,,3207,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9746216,-118.3283072,,,,,,ok,empty_or_invalid_json,True
+786471.0,59,Unknown,Unknown,3325338.0,,3225,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9746152,-118.3288064,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,1503925.0,,7053,5th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9754251,-118.3227194,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,6307386.0,,6763,6th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9770721,-118.32368,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,2081195.0,,6799,6th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.976499,-118.323684,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,6543405.0,,7006,6th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9761552,-118.3234887,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,7844621.0,,7054,6th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9753887,-118.3234946,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,2868049.0,,6725,7th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9776732,-118.3246489,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,1584931.0,,7014,7th Ave,Los Angeles,90043.0,CA,,,House,NotHome,1.0,2025/06/11,,,,,,33.9760244,-118.3244636,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,3759644.0,,7018,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,7965787.0,,7000,Madden Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.976245,-118.325435,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,5053342.0,,7001,Madden Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.976246,-118.325633,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,4244338.0,,7013,Madden Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9761511,-118.3256337,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,1566546.0,,7035,Madden Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9759771,-118.3256351,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,2751021.0,,2914,W 67th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9780947,-118.3247907,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,9688814.0,,3008,W 67th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9780919,-118.3257238,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,1069438.0,,6707,W 67th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9781265,-118.3338134,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,7689523.0,,2901,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.974642,-118.324722,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,6648098.0,,2927,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9746412,-118.3249016,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,5086984.0,,2967,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.97464,-118.3251779,,,,,,ok,empty_or_invalid_json,True
+138837.0,60,Unknown,Unknown,5758158.0,,3013,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9746378,-118.3257798,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,6045037.0,,7323,5th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.973397,-118.3221954,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,4135485.0,,7327,5th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9733702,-118.3221955,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,9961008.0,,7214,7th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9743437,-118.3241843,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,1600750.0,,7414,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,2807619.0,,7514,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,9157468.0,,2720,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.973582,-118.3230059,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,3075151.0,,2901,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.973743,-118.324434,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,6412013.0,,2917,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9737426,-118.3245861,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,4060314.0,,3019,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.97374,-118.3255556,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,6883101.0,,2625,W 74th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9728467,-118.3223994,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,5559207.0,,3005,W 74th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9728394,-118.3254245,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,4401950.0,,3020,W 74th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.972674,-118.3255756,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,4808625.0,,2909,W 75th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9719398,-118.324514,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,6554565.0,,2921,W 75th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9719395,-118.3246281,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,1440165.0,,3015,W 76th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9709933,-118.3255242,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,7349148.0,,2606,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9744859,-118.3222549,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,1229208.0,,2607,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9744859,-118.322257,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,2049425.0,,2904,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9744769,-118.3247486,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,1945371.0,,2908,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9744768,-118.3247763,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,2334015.0,,2912,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9744766,-118.3248039,,,,,,ok,empty_or_invalid_json,True
+150346.0,61,Unknown,Unknown,7861322.0,,3010,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9744728,-118.3257648,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,9998113.0,,7208,10th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.974359,-118.3284841,,dog,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,6435503.0,4,7215,10th Ave,Los Angeles,,Unknown,,,Apartment,Available,0.0,,,,,,,,,Not Home,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,8410143.0,,7219,10th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9742914,-118.3286822,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,9317386.0,,7223,10th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9742644,-118.3286822,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,4503726.0,,7326,10th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9733143,-118.3284813,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,9069112.0,,7411,10th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9725293,-118.3287512,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,9878570.0,,7510,10th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9716183,-118.3285552,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,2214653.0,,7229,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,34.0055105,-118.325844,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,4284879.0,,7421,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,7157116.0,,7203,9th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9744051,-118.3276331,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,3735281.0,,7250,9th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9740233,-118.3274363,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,6774776.0,,7314,9th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9735155,-118.3274379,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,3019197.0,,7300,S Crenshaw Blvd,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9288014,-118.326295,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,3746567.0,,3212,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9735445,-118.3288519,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,9469779.0,,3215,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9737094,-118.3288729,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,9874037.0,,3222,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.973544,-118.3289519,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,2566399.0,,3225,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9737089,-118.3289729,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,9829088.0,,3227,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9737088,-118.3289929,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,1135243.0,,3228,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9735437,-118.3290119,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,4870974.0,,3304,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9735403,-118.3297715,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,1578765.0,,3314,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9735398,-118.3298714,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,3946213.0,,3323,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9737045,-118.3299524,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,1880491.0,,3117,W 74th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9728236,-118.3269442,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,7296801.0,,3149,W 74th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9728064,-118.3278006,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,8313748.0,,3156,W 74th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9726415,-118.3279837,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,2991814.0,,3243,W 74th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9727987,-118.3292017,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,7712105.0,,3324,W 74th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9726301,-118.329983,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,9235175.0,,3111,W 75th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9719273,-118.3268118,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,4849864.0,,3161,W 75th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.971909,-118.3277755,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,7868960.0,,3325,W 75th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9718857,-118.329986,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,8611364.0,,3116,W 76th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9708247,-118.3269272,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,2448730.0,,3106,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9744675,-118.3268525,,,,,,ok,empty_or_invalid_json,True
+584366.0,62,Unknown,Unknown,8869318.0,,3130,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9744598,-118.3281289,,,,,,ok,empty_or_invalid_json,True
+203076.0,63,Unknown,Unknown,3441741.0,,3001,79th St,Inglewood,90305.0,Unknown,,,House,Available,0.0,,,,,,,,,,,,,,auto_fixed,empty_or_invalid_json,True
+203076.0,63,Unknown,Unknown,9367413.0,,2605,S 5th Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.952725,-118.3221207,,,,,,ok,empty_or_invalid_json,True
+203076.0,63,Unknown,Unknown,7162634.0,,3076,W 76th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9708273,-118.3261128,,,,,,ok,empty_or_invalid_json,True
+203076.0,63,Unknown,Unknown,8381268.0,,290312,W 77th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9699764,-118.3221149,,,,,,ok,empty_or_invalid_json,True
+203076.0,63,Unknown,Unknown,2023670.0,,3014,W 77th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9699008,-118.3255155,,,,,,ok,empty_or_invalid_json,True
+203076.0,63,Unknown,Unknown,4564323.0,,2601,W 78th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.969172,-118.322225,,,,,,ok,empty_or_invalid_json,True
+203076.0,63,Unknown,Unknown,1078310.0,,2605,W 78th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9691719,-118.3222505,,,,,,ok,empty_or_invalid_json,True
+203076.0,63,Unknown,Unknown,1379630.0,,2601,W 79th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.967343,-118.322228,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,4998866.0,,3231,W 80th St,Inglewood,90305.0,CA,,,House,NotHome,1.0,2025/04/23,,,,,,33.9664502,-118.3278676,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,7415776.0,,3339,W 80th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9664465,-118.3293647,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,3075004.0,,7611,10th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9707093,-118.3287552,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,4667723.0,,7703,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,9377655.0,,7705,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,8665783.0,,7709,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,1721387.0,,7715,8th Ave,Los Angeles,90043.0,CA,,,House,NotHome,1.0,2025/02/26,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,4748311.0,,7719,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,2947748.0,,7723,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,3757453.0,,7725,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,1243811.0,,7807,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,3171714.0,,7821,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,8486641.0,,7841,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,34.0055105,-118.325844,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,9463494.0,,7851,8th Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.997381,-118.3258035,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,9023679.0,,3208,W 76th St,Los Angeles,90043.0,CA,,,House,NotHome,1.0,2024/09/22,,,,,,33.9708166,-118.3288803,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,7152369.0,,3203,W 77th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9700719,-118.3288261,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,8760843.0,,3321,W 78th Pl,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9682413,-118.3299592,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,6022282.0,,3108,W 78th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9690043,-118.326778,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,6313645.0,,3149,W 78th St,Los Angeles,90043.0,CA,,,House,Home,0.0,2024/11/01,,,,,,33.9691661,-118.3275492,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,2976942.0,,3213,W 79th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9673427,-118.3289273,,,,,,ok,empty_or_invalid_json,True
+729086.0,64,Unknown,Unknown,5702702.0,,3303,W 79th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9673401,-118.3297846,,,,,,ok,empty_or_invalid_json,True
+418224.0,65,Unknown,Unknown,2549635.0,,3,8th Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9617934,-118.3266898,,,,,,ok,empty_or_invalid_json,True
+418224.0,65,Unknown,Unknown,7330978.0,,8098,Crenshaw Blvd,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.965569,-118.330685,,,,,,ok,empty_or_invalid_json,True
+418224.0,65,Unknown,Unknown,8376968.0,,8080,S 10th Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9656897,-118.3285571,,,,,,ok,empty_or_invalid_json,True
+418224.0,65,Unknown,Unknown,8761953.0,,3344,W 81St St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9653604,-118.3293803,,,,,,ok,empty_or_invalid_json,True
+418224.0,65,Unknown,Unknown,8272314.0,,3348,W 81St St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9653607,-118.3294329,,,,,,ok,empty_or_invalid_json,True
+418224.0,65,Unknown,Unknown,2753375.0,,311,W 82nd St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9649123,-118.3243075,,,,,,ok,empty_or_invalid_json,True
+418224.0,65,Unknown,Unknown,3994445.0,,3203,W 82nd St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9646237,-118.327585,,,,,,ok,empty_or_invalid_json,True
+975664.0,66,Unknown,Unknown,4328337.0,,3026,W 79th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9671829,-118.3256404,,,,,,ok,empty_or_invalid_json,True
+975664.0,66,Unknown,Unknown,2984871.0,,2702,W 81St St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9655919,-118.32289,,,,,,ok,empty_or_invalid_json,True
+475609.0,67,Unknown,Unknown,6552406.0,,2820,7th Ave,Inglewood,90305.0,CA,,,House,NotHome,1.0,2025/03/01,,,,,,33.9490977,-118.3243132,,,,,,ok,empty_or_invalid_json,True
+475609.0,67,Unknown,Unknown,2979778.0,,8448,Crenshaw Blvd,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9614343,-118.3263396,,,,,,ok,empty_or_invalid_json,True
+475609.0,67,Unknown,Unknown,5206226.0,,2703,W 84th Pl,Inglewood,90305.0,CA,,,House,NotHome,1.0,2025/03/01,,,,,,33.961677,-118.3222811,,,,,,ok,empty_or_invalid_json,True
+475609.0,67,Unknown,Unknown,4605511.0,,2913,W 84th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9624126,-118.324594,,,,,,ok,empty_or_invalid_json,True
+475609.0,67,Unknown,Unknown,7925426.0,,2928,W 84th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9622473,-118.3246451,,,,,,ok,empty_or_invalid_json,True
+594667.0,68,Unknown,Unknown,3810412.0,,2524,S 5th Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.952725,-118.3221207,,,,,,ok,empty_or_invalid_json,True
+594667.0,68,Unknown,Unknown,6280199.0,,2416,W 81St St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9653811,-118.3204141,,,,,,ok,empty_or_invalid_json,True
+731644.0,69,Unknown,Unknown,4268030.0,,7925,S Van Ness Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9662264,-118.3178521,,,,,,ok,empty_or_invalid_json,True
+739018.0,70,Unknown,Unknown,3015232.0,,8238,Maitland Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9643751,-118.3210616,,,,,,ok,empty_or_invalid_json,True
+739018.0,70,Unknown,Unknown,3936708.0,,8315,Park Cir,Inglewood,90305.0,CA,,,House,DoNotCall,0.0,,,,,,,,,,,,,,ok,empty_or_invalid_json,True
+739018.0,70,Unknown,Unknown,2939079.0,,8409,S 2nd Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9616354,-118.3188577,,,,,,ok,empty_or_invalid_json,True
+739018.0,70,Unknown,Unknown,9082601.0,,8433,S 2nd Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9614897,-118.3188597,,,,,,ok,empty_or_invalid_json,True
+828623.0,71,Unknown,Unknown,9247262.0,,8450,S 5th Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.961473,-118.322011,,,,,,ok,empty_or_invalid_json,True
+828623.0,71,Unknown,Unknown,4609251.0,,2517,W 84th Pl,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9618987,-118.3204103,,,,,,ok,empty_or_invalid_json,True
+828623.0,71,Unknown,Unknown,2449382.0,,0,W 85th St,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9608785,-118.3330515,,,,,,ok,empty_or_invalid_json,True
+732895.0,72,Unknown,Unknown,3594407.0,,8640,Crenshaw Blvd,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.959195,-118.3263571,,,,,,ok,empty_or_invalid_json,True
+732895.0,72,Unknown,Unknown,8210150.0,,8702,Crenshaw Blvd,Inglewood,90305.0,CA,,,House,NotHome,1.0,2025/05/10,,,,,,33.9586986,-118.3263899,,,,,,ok,empty_or_invalid_json,True
+732895.0,72,Unknown,Unknown,1095891.0,,8717,S 8th Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9586574,-118.3254849,,,,,,ok,empty_or_invalid_json,True
+732895.0,72,Unknown,Unknown,1238935.0,,8803,S 8th Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9578981,-118.3254899,,,,,,ok,empty_or_invalid_json,True
+512205.0,73,Unknown,Unknown,5392364.0,,9221,S 8th Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9537338,-118.3254798,,,,,,ok,empty_or_invalid_json,True
+955667.0,74,Unknown,Unknown,9338815.0,,8722,S 4th Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9586201,-118.3208992,,,,,,ok,empty_or_invalid_json,True
+889731.0,75,Unknown,Unknown,2884969.0,,9216,S 2nd Ave,Inglewood,90305.0,CA,,,House,Available,0.0,,,,,,,33.9537783,-118.3187104,,,,,,ok,empty_or_invalid_json,True
+889731.0,75,Unknown,Unknown,9551234.0,,9226,S Van Ness Ave,Los Angeles,90047.0,CA,,,House,Available,0.0,,,,,,,33.9524316,-118.317625,,,,,,ok,empty_or_invalid_json,True
+739236.0,P-55,P,Prairie Inglewood,8457719.0,,7234,Brynhurst Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9740784,-118.3340647,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,9613907.0,,7236,Brynhurst Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.974063,-118.3340646,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,3027468.0,,7339,S Victoria Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9732243,-118.3331224,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,5916577.0,,7615,S Victoria Ave,Los Angeles,90043.0,CA,,,House,Home,0.0,2024/10/12,,,,,,33.9706521,-118.3331374,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,4495300.0,,3410,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9735793,-118.3312176,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,3083875.0,,3420,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9735814,-118.3314065,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,7950214.0,,3436,W 73rd St,Los Angeles,90043.0,CA,,,House,Home,0.0,2024/10/12,,,,,,33.9735788,-118.3317085,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,7765793.0,,3446,W 73rd St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9735548,-118.3318957,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,1199929.0,,3415,W 74th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9727876,-118.3312569,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,5449294.0,,3437,W 74th St,Los Angeles,90043.0,CA,,,House,DoNotCall,0.0,,,,,,,,,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,2962100.0,,3428,W 75th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9717214,-118.3315316,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,6146962.0,,3457,W 75th St,Los Angeles,90043.0,CA,,,House,Home,0.0,2025/02/01,,,,,,33.9718837,-118.3312552,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,6737180.0,,3455,W 77th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9700587,-118.3320318,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,1023421.0,,3455,W 78th St,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9691502,-118.3320328,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,7607325.0,,3414,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.97444,-118.3313723,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,2118705.0,,3512,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9744274,-118.3334312,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,2165997.0,,3974,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9744889,-118.335232,,,,,,ok,empty_or_invalid_json,False
+739236.0,P-55,P,Prairie Inglewood,1234959.0,,5544,W Florence Ave,Los Angeles,90043.0,CA,,,House,Available,0.0,,,,,,,33.9744889,-118.335232,,,,,,ok,empty_or_invalid_json,False
+,,Unknown,Unknown,,,3719,Armitage Ave,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Armitage_Ave_529.json,2025-11-09T18:24:37.031493,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3734,Armitage Ave,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Armitage_Ave_707.json,2025-11-09T18:24:37.034928,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8718,Beckenham Ln,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Beckenham_Ln_711.json,2025-11-09T18:24:37.062845,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8704,Carlton Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Carlton_Dr_718.json,2025-11-09T18:24:37.085770,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8708,Carlton Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Carlton_Dr_719.json,2025-11-09T18:24:37.114127,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8712,Carlton Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Carlton_Dr_720.json,2025-11-09T18:24:37.132068,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8716,Carlton Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Carlton_Dr_721.json,2025-11-09T18:24:37.143744,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8748,Carlton Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Carlton_Dr_729.json,2025-11-09T18:24:37.155343,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8752,Carlton Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Carlton_Dr_730.json,2025-11-09T18:24:37.157308,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,9311,Crenshaw Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Crenshaw_Blvd_361.json,2025-11-09T18:24:37.216079,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8609,Crenshaw Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Crenshaw_Blvd_50.json,2025-11-09T18:24:37.218074,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8723,Crenshaw Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Crenshaw_Blvd_60.json,2025-11-09T18:24:37.297880,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8712,Dartford Pl,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Dartford_Pl_542.json,2025-11-09T18:24:37.338108,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8716,Dartford Pl,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Dartford_Pl_543.json,2025-11-09T18:24:37.353933,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8720,Dartford Pl,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Dartford_Pl_544.json,2025-11-09T18:24:37.381240,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8792,Dartford Pl,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Dartford_Pl_552.json,2025-11-09T18:24:37.426517,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8828,Dartford Pl,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Dartford_Pl_560.json,2025-11-09T18:24:37.508297,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8832,Dartford Pl,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Dartford_Pl_561.json,2025-11-09T18:24:37.532182,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8836,Dartford Pl,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Dartford_Pl_562.json,2025-11-09T18:24:37.545344,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3701,Farnham Ln,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Farnham_Ln_563.json,2025-11-09T18:24:37.565333,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8818,Glendover Wy,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Glendover_Wy_575.json,2025-11-09T18:24:37.591305,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3600,Kensley Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Kensley_Dr_576.json,2025-11-09T18:24:37.609905,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3602,Kensley Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Kensley_Dr_578.json,2025-11-09T18:24:37.621874,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3660,Kensley Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Kensley_Dr_606.json,2025-11-09T18:24:37.634841,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3664,Kensley Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Kensley_Dr_608.json,2025-11-09T18:24:37.648802,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3668,Kensley Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Kensley_Dr_610.json,2025-11-09T18:24:37.662765,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3672,Kensley Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Kensley_Dr_612.json,2025-11-09T18:24:37.674471,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3676,Kensley Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Kensley_Dr_615.json,2025-11-09T18:24:37.685901,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3684,Kensley Dr,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Kensley_Dr_620.json,2025-11-09T18:24:37.698228,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3116,Manchester Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Manchester_Blvd_63.json,2025-11-09T18:24:37.724310,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3136,Manchester Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Manchester_Blvd_68.json,2025-11-09T18:24:37.738277,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3218,Manchester Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Manchester_Blvd_72.json,2025-11-09T18:24:37.760215,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3306,Manchester Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Manchester_Blvd_75.json,2025-11-09T18:24:37.824876,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8721,Penridge Pl,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Penridge_Pl_634.json,2025-11-09T18:24:37.874113,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8728,Penridge Pl,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Penridge_Pl_637.json,2025-11-09T18:24:37.891065,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,8753,Penridge Pl,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Penridge_Pl_644.json,2025-11-09T18:24:37.914309,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3621,Summerset Pl,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Summerset_Pl_685.json,2025-11-09T18:24:37.941409,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3625,Summerset Pl,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,Summerset_Pl_687.json,2025-11-09T18:24:37.963221,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,9616,S 10th Ave,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,S_10th_Ave_412.json,2025-11-09T18:24:37.977053,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,9629,S Crenshaw Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,S_Crenshaw_Blvd_424.json,2025-11-09T18:24:37.997531,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3101,W Arbor Vitae St,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,W_Arbor_Vitae_St_353.json,2025-11-09T18:24:38.012490,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3231,W Arbor Vitae St,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,W_Arbor_Vitae_St_359.json,2025-11-09T18:24:38.042617,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3116,W Manchester Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,W_Manchester_Blvd_189.json,2025-11-09T18:24:38.056581,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3136,W Manchester Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,W_Manchester_Blvd_194.json,2025-11-09T18:24:38.090435,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3218,W Manchester Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,W_Manchester_Blvd_198.json,2025-11-09T18:24:38.099516,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3306,W Manchester Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,W_Manchester_Blvd_201.json,2025-11-09T18:24:38.131340,ok,empty_or_invalid_json,True
+,,Unknown,Unknown,,,3424,W Manchester Blvd,Inglewood,90305.0,CA,,,,,,,,,,,,,,,,,W_Manchester_Blvd_696.json,2025-11-09T18:24:38.175921,ok,empty_or_invalid_json,True

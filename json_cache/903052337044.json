@@ -2,11 +2,11 @@
   {
     "input_index": 0,
     "candidate_index": 0,
-    "delivery_line_1": "8904 Crenshaw Blvd",
+    "delivery_line_1": "8904 1/2 Crenshaw Blvd",
     "last_line": "Inglewood CA 90305-2337",
     "delivery_point_barcode": "903052337044",
     "components": {
-      "primary_number": "8904",
+      "primary_number": "8904 1/2",
       "street_name": "Crenshaw",
       "street_suffix": "Blvd",
       "city_name": "Inglewood",

@@ -2,11 +2,11 @@
   {
     "input_index": 0,
     "candidate_index": 0,
-    "delivery_line_1": "522 E Queen St",
+    "delivery_line_1": "522 1/2 E Queen St",
     "last_line": "Inglewood CA 90301-1929",
     "delivery_point_barcode": "903011929222",
     "components": {
-      "primary_number": "522",
+      "primary_number": "522 1/2",
       "street_predirection": "E",
       "street_name": "Queen",
       "street_suffix": "St",

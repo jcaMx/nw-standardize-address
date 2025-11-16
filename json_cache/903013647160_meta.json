@@ -1,13 +1,14 @@
 {
-  "row_index": 1029,
+  "row_index": 41,
   "sent_params": {
     "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
     "auth-token": "rOOG4cFXIaOANVasFnu7",
-    "street": "1016 S Inglewood Ave",
+    "street": "1016 1/2 S Inglewood Ave",
     "city": "Inglewood",
     "state": "CA",
-    "zipcode": "90301"
+    "zipcode": "90301",
+    "secondary": "nan"
   },
-  "timestamp": "2025-11-09T08:41:52.114219Z",
+  "timestamp": "2025-11-16T02:35:20.793304Z",
   "status_code": 200
 }

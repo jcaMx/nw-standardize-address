@@ -1,0 +1,49 @@
+[
+  {
+    "input_index": 0,
+    "candidate_index": 0,
+    "delivery_line_1": "1018 1/2 S Inglewood Ave # Nan",
+    "last_line": "Inglewood CA 90301-3647",
+    "delivery_point_barcode": "903013647188",
+    "components": {
+      "primary_number": "1018 1/2",
+      "street_predirection": "S",
+      "street_name": "Inglewood",
+      "street_suffix": "Ave",
+      "secondary_number": "Nan",
+      "secondary_designator": "#",
+      "city_name": "Inglewood",
+      "default_city_name": "Inglewood",
+      "state_abbreviation": "CA",
+      "zipcode": "90301",
+      "plus4_code": "3647",
+      "delivery_point": "18",
+      "delivery_point_check_digit": "8"
+    },
+    "metadata": {
+      "record_type": "S",
+      "zip_type": "Standard",
+      "county_fips": "06037",
+      "county_name": "Los Angeles",
+      "carrier_route": "C012",
+      "congressional_district": "43",
+      "rdi": "Residential",
+      "elot_sequence": "0021",
+      "elot_sort": "A",
+      "latitude": 33.94936,
+      "longitude": -118.36122,
+      "precision": "Zip9",
+      "time_zone": "Pacific",
+      "utc_offset": -8,
+      "dst": true
+    },
+    "analysis": {
+      "dpv_match_code": "S",
+      "dpv_footnotes": "AABBCC",
+      "dpv_cmra": "N",
+      "dpv_vacant": "N",
+      "dpv_no_stat": "N",
+      "active": "Y"
+    }
+  }
+]

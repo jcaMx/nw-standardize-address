@@ -2,11 +2,11 @@
   {
     "input_index": 0,
     "candidate_index": 0,
-    "delivery_line_1": "3404 W 83rd St",
+    "delivery_line_1": "3404 1/2 W 83rd St",
     "last_line": "Inglewood CA 90305-1647",
     "delivery_point_barcode": "903051647041",
     "components": {
-      "primary_number": "3404",
+      "primary_number": "3404 1/2",
       "street_predirection": "W",
       "street_name": "83rd",
       "street_suffix": "St",

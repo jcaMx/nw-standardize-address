@@ -1,14 +1,14 @@
 {
-  "row_index": 2827,
+  "row_index": 140,
   "sent_params": {
     "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
     "auth-token": "rOOG4cFXIaOANVasFnu7",
-    "street": "6805 10th Ave",
+    "street": "6805 1/4 10th Ave",
     "city": "Los Angeles",
     "state": "CA",
     "zipcode": "90043",
     "secondary": "Unit"
   },
-  "timestamp": "2025-11-09T09:14:50.432663Z",
+  "timestamp": "2025-11-16T02:37:25.232081Z",
   "status_code": 200
 }

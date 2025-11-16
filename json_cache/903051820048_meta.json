@@ -1,0 +1,14 @@
+{
+  "row_index": 352,
+  "sent_params": {
+    "auth-id": "fc20c9c5-366d-71ae-5c8f-da11aa762646",
+    "auth-token": "rOOG4cFXIaOANVasFnu7",
+    "street": "2604 1/2 W 85th St",
+    "city": "Inglewood",
+    "state": "CA",
+    "zipcode": "90305",
+    "secondary": "nan"
+  },
+  "timestamp": "2025-11-16T02:41:37.771709Z",
+  "status_code": 200
+}
